@@ -1,0 +1,7 @@
+Removed Parameter DeviceName: from Part TP17
+Change Value of Parameter PACKAGE in Part TP17 Old=Keystone Electronics New=KEYSTONE_5015
+Added Parameter Component Type=Standard to Part TP17
+Added Parameter Design Item ID=5015 to Part TP17
+Added Parameter Pin Count=1 to Part TP17
+Added Parameter Source=MCU Board.SCHLIB to Part TP17
+Update Managed Component TP17 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_4.SchDoc

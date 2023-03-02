@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=DEBUG1-2
+Added Pin To Net: NetName=GND Pin=DEBUG2-2
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Added Pin To Net: NetName=NetR1_1 Pin=SD_ACTIVITY-1
+Added Pin To Net: NetName=GND Pin=SD_ACTIVITY-2
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Pin To Net: Unknown Pin: Pin XTAL2-4

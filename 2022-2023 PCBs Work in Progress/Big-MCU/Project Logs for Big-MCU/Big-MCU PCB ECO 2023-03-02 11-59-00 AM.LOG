@@ -1,0 +1,134 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=SAMTEC-FTSH-105-01-X-DVJ New DesignItemId=CMP-006-000020-2
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC-FTSH-105-01-X-DV New Footprint=SAMTEC-FTSH-105-01-X-DV
+Change Component Comment : Designator=J2 Old Comment=SAMTEC-FTSH-105-01-X-DVJ New Comment=CMP-006-000020-2
+Change Component Description : Designator=J2 Old Description= New Description=Conn Unshrouded Header HDR 10 POS 1.27mm Solder ST Top Entry SMD Tube
+Change Component Library : Designator=J2 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=DF15F624-AA49-41E9-8DC7-2A7AB6E7E015 Old RevisionGUID= New RevisionGUID=445a7ec7-580a-404f-b0c8-8bf0e6bbd970
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SAMTEC-FTSH-105-01-X-DV"; UniqueID = "\KLGQULMS" ("\KLGQULMS")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.12inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "3.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "SAMTEC-FTSH-105-01-X-DVJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "SAMTEC-FTSH-105-01-X-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SAMTEC-FTSH-105-01-X-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "0.05inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FTSH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SAMTEC-FTSH-105-01-X-DVA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=U4(QFP40P1600X1600X120-128N)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "ATSAMD51P20A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_2"; Value = "G$2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATSAMD51P20A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "TQFP-128 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "ATSAMD51P20A-AU_SECTION1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_2"; Value = "ATSAMD51P20A-AU_SECTION2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-26
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-32
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-37
+Added Pin To Net: NetName=GND Pin=U4-38
+Added Pin To Net: NetName=GND Pin=U4-45
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-46
+Added Pin To Net: NetName=GND Pin=U4-53
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-54
+Added Pin To Net: NetName=GND Pin=U4-64
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-65
+Added Pin To Net: NetName=GND Pin=U4-78
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-79
+Added Pin To Net: NetName=GND Pin=U4-90
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-91
+Added Pin To Net: NetName=GND Pin=U4-96
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-97
+Added Pin To Net: NetName=GND Pin=U4-106
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-107
+Added Pin To Net: NetName=MCU_RESET Pin=U4-114
+Added Pin To Net: NetName=VCC_MCU_VDDCORE Pin=U4-115
+Added Pin To Net: NetName=GND Pin=U4-116
+Added Pin To Net: NetName=VCC_MCU_VSW Pin=U4-117
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-118
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Pin To Net: Unknown Pin: Pin XTAL2-4
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists

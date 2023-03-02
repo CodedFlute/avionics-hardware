@@ -1,0 +1,238 @@
+Change Component DesignItemId : Designator=TP18 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-1
+Change Component DesignItemId : Designator=TP1 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP2 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP3 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP4 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP7 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP8 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP19 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component DesignItemId : Designator=TP20 Old DesignItemId=5015 New DesignItemId=CMP-005-000003-2
+Change Component Footprint: Designator=TP18 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP1 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP2 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP3 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP4 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP5 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP6 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP7 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP8 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP19 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP20 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Comment : Designator=TP18 Old Comment=5015 New Comment=CMP-005-000003-1
+Change Component Comment : Designator=TP1 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP2 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP3 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP4 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP5 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP6 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP7 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP8 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP19 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Comment : Designator=TP20 Old Comment=5015 New Comment=CMP-005-000003-2
+Change Component Description : Designator=TP1 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP2 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP3 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP4 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP5 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP6 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP7 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP8 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP18 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP19 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Description : Designator=TP20 Old Description=Test Point; Black; Surface Mount; Wire Leaded; Polycarbonate; 0.04 in. New Description=
+Change Component Library : Designator=TP1 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP2 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP3 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP4 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP5 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP6 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP7 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP8 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP18 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP19 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=TP20 Old Library=MCU Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Managed Component Library Link : Designator=TP1 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP2 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP3 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP4 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP5 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP6 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP7 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP8 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP18 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=26FB9917-AE2E-4A62-AEE0-83AF223C4C00
+Change Managed Component Library Link : Designator=TP19 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change Managed Component Library Link : Designator=TP20 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID= New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Change component parameters: Designator = "TP1" ("TP1"); Footprint = "KEYSTONE_5015"; UniqueID = "\TMSPYQOD" ("\TMSPYQOD")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2" ("TP2"); Footprint = "KEYSTONE_5015"; UniqueID = "\OLGDUEFS" ("\OLGDUEFS")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "KEYSTONE_5015"; UniqueID = "\BPAHGHBC" ("\BPAHGHBC")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4" ("TP4"); Footprint = "KEYSTONE_5015"; UniqueID = "\DCBTPHUA" ("\DCBTPHUA")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "KEYSTONE_5015"; UniqueID = "\JCMOXMMD" ("\JCMOXMMD")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6" ("TP6"); Footprint = "KEYSTONE_5015"; UniqueID = "\BPCFUOFX" ("\BPCFUOFX")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP7" ("TP7"); Footprint = "KEYSTONE_5015"; UniqueID = "\SHLDOAYJ" ("\SHLDOAYJ")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP8" ("TP8"); Footprint = "KEYSTONE_5015"; UniqueID = "\AWAGMIJW" ("\AWAGMIJW")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP18" ("TP18"); Footprint = "KEYSTONE_5015"; UniqueID = "\JSFDROCU" ("\JSFDROCU")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP19" ("TP19"); Footprint = "KEYSTONE_5015"; UniqueID = "\KQYWSCYX" ("\KQYWSCYX")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP20" ("TP20"); Footprint = "KEYSTONE_5015"; UniqueID = "\EWNMJPGN" ("\EWNMJPGN")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUSER-PURCHASE-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=48459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "KEYSTONE_5015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "5015"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Pin To Net: Unknown Pin: Pin XTAL2-4
+Added Class: Name=Big-MCU_1
+Added Class: Name=Big-MCU_2
+Added Class: Name=Big-MCU_3
+Added Class: Name=Big-MCU_4

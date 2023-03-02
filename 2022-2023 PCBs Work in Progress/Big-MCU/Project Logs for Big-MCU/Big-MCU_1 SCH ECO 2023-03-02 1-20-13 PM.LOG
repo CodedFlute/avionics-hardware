@@ -1,0 +1,77 @@
+Removed Parameter DeviceName: from Part FB100
+Removed Parameter DeviceName: from Part L1
+Removed Parameter DeviceName: from Part L100
+Removed Parameter DeviceName: from Part TP11
+Removed Parameter DeviceName: from Part TP12
+Removed Parameter DeviceName: from Part TP13
+Removed Parameter DeviceName: from Part TP14
+Removed Parameter DeviceName: from Part TP15
+Removed Parameter DeviceName: from Part TP16
+Removed Parameter DeviceName: from Part XTAL1
+Removed Parameter DeviceName: from Part XTAL2
+Change Value of Parameter PACKAGE in Part TP15 Old=Keystone Electronics New=KEYSTONE_5015
+Change Value of Parameter PACKAGE in Part TP16 Old=Keystone Electronics New=KEYSTONE_5015
+Change Value of Parameter PACKAGE in Part TP12 Old=Keystone Electronics New=KEYSTONE_5015
+Change Value of Parameter PACKAGE in Part TP11 Old=Keystone Electronics New=KEYSTONE_5015
+Change Value of Parameter PACKAGE in Part TP14 Old=Keystone Electronics New=KEYSTONE_5015
+Change Value of Parameter PACKAGE in Part TP13 Old=Keystone Electronics New=KEYSTONE_5015
+Added Parameter Component Type=Standard to Part FB100
+Added Parameter Component Type=Standard to Part L1
+Added Parameter Component Type=Standard to Part L100
+Added Parameter Component Type=Standard to Part TP11
+Added Parameter Component Type=Standard to Part TP12
+Added Parameter Component Type=Standard to Part TP13
+Added Parameter Component Type=Standard to Part TP14
+Added Parameter Component Type=Standard to Part TP15
+Added Parameter Component Type=Standard to Part TP16
+Added Parameter Component Type=Standard to Part XTAL1
+Added Parameter Component Type=Standard to Part XTAL2
+Added Parameter Design Item ID=5015 to Part TP11
+Added Parameter Design Item ID=5015 to Part TP12
+Added Parameter Design Item ID=5015 to Part TP13
+Added Parameter Design Item ID=5015 to Part TP14
+Added Parameter Design Item ID=5015 to Part TP15
+Added Parameter Design Item ID=5015 to Part TP16
+Added Parameter Design Item ID=BLM18PG471SN1D to Part FB100
+Added Parameter Design Item ID=CM7V-T1A-32.768KHZ-12.5PF-10PPM-TA-QC to Part XTAL1
+Added Parameter Design Item ID=LQH43PN100M26L to Part L1
+Added Parameter Design Item ID=LQH43PN100M26L to Part L100
+Added Parameter Design Item ID=RH100-12.000-12-1010-EXT-TR to Part XTAL2
+Added Parameter Package=0603 to Part FB100
+Added Parameter Package=CM7V-T1A-32.768KHZ-12.5PF-10PPM-TA-QC to Part XTAL1
+Added Parameter Package=LQH43PN100M26L to Part L1
+Added Parameter Package=LQH43PN100M26L to Part L100
+Added Parameter Package=RH100-12.000-12-1010-EXT-TR to Part XTAL2
+Added Parameter Pin Count=1 to Part TP11
+Added Parameter Pin Count=1 to Part TP12
+Added Parameter Pin Count=1 to Part TP13
+Added Parameter Pin Count=1 to Part TP14
+Added Parameter Pin Count=1 to Part TP15
+Added Parameter Pin Count=1 to Part TP16
+Added Parameter Pin Count=2 to Part FB100
+Added Parameter Pin Count=2 to Part L1
+Added Parameter Pin Count=2 to Part L100
+Added Parameter Pin Count=2 to Part XTAL1
+Added Parameter Pin Count=3 to Part XTAL2
+Added Parameter Source=MCU Board.SCHLIB to Part FB100
+Added Parameter Source=MCU Board.SCHLIB to Part L1
+Added Parameter Source=MCU Board.SCHLIB to Part L100
+Added Parameter Source=MCU Board.SCHLIB to Part TP11
+Added Parameter Source=MCU Board.SCHLIB to Part TP12
+Added Parameter Source=MCU Board.SCHLIB to Part TP13
+Added Parameter Source=MCU Board.SCHLIB to Part TP14
+Added Parameter Source=MCU Board.SCHLIB to Part TP15
+Added Parameter Source=MCU Board.SCHLIB to Part TP16
+Added Parameter Source=MCU Board.SCHLIB to Part XTAL1
+Added Parameter Source=MCU Board.SCHLIB to Part XTAL2
+Update Managed Component FB100 From CMP-006-000008-1[BLM18PG471SN1D] To CMP-006-000008-1[BLM18PG471SN1D] in Big-MCU_1.SchDoc
+Update Managed Component L1 From CMP-004-000001-1[LQH43PN100M26L] To CMP-004-000001-1[LQH43PN100M26L] in Big-MCU_1.SchDoc
+Update Managed Component L100 From CMP-004-000001-1[LQH43PN100M26L] To CMP-004-000001-1[LQH43PN100M26L] in Big-MCU_1.SchDoc
+Update Managed Component TP11 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component TP12 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component TP13 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component TP14 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component TP15 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component TP16 From CMP-005-000003-2[5015] To CMP-005-000003-2[5015] in Big-MCU_1.SchDoc
+Update Managed Component XTAL1 From CMP-006-000011-1[CM7V-T1A] To CMP-006-000011-1[CM7V-T1A-32.768KHZ-12.5PF-10PPM-TA-QC] in Big-MCU_1.SchDoc
+Update Managed Component XTAL2 From CMP-006-000019-1[RH100-12.000-12-1010-EXT-TR] To CMP-006-000019-1[RH100-12.000-12-1010-EXT-TR] in Big-MCU_1.SchDoc

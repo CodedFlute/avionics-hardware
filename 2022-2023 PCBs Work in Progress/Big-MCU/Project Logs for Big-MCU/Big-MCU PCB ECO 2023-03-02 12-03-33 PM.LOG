@@ -1,0 +1,32 @@
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=U4-26
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-32
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-37
+Added Pin To Net: NetName=GND Pin=U4-38
+Added Pin To Net: NetName=GND Pin=U4-45
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-46
+Added Pin To Net: NetName=GND Pin=U4-53
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-54
+Added Pin To Net: NetName=GND Pin=U4-64
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-65
+Added Pin To Net: NetName=GND Pin=U4-78
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-79
+Added Pin To Net: NetName=GND Pin=U4-90
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-91
+Added Pin To Net: NetName=GND Pin=U4-96
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-97
+Added Pin To Net: NetName=GND Pin=U4-106
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-107
+Added Pin To Net: NetName=MCU_RESET Pin=U4-114
+Added Pin To Net: NetName=VCC_MCU_VDDCORE Pin=U4-115
+Added Pin To Net: NetName=GND Pin=U4-116
+Added Pin To Net: NetName=VCC_MCU_VSW Pin=U4-117
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=U4-118
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Pin To Net: Unknown Pin: Pin XTAL2-4

@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C1-1
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C2-1
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C4-+
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C13-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C15-1
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C18-1
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=C19-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=J2-1
+Removed Pin From Net: NetName=SWDIO Pin=J2-2
+Removed Pin From Net: NetName=SWO Pin=J2-6
+Removed Pin From Net: NetName=RESET Pin=J2-10
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=MICRO_SD-4
+Removed Pin From Net: NetName=SD_ACTIVE_LED Pin=R1-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R2-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R3-1
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R4-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R5-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R6-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R8-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R9-2
+Removed Pin From Net: NetName=MOSI Pin=R10-1
+Removed Pin From Net: NetName=SCK Pin=R11-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R19-2
+Removed Pin From Net: NetName=SPI1_SCK Pin=R21-2
+Removed Pin From Net: NetName=SPI1_MISO Pin=R22-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=R25-2
+Removed Pin From Net: NetName=STAT_B Pin=R26-2
+Removed Pin From Net: NetName=STAT_G Pin=R27-2
+Removed Pin From Net: NetName=STAT_R Pin=R28-2
+Removed Pin From Net: NetName=DEBUG_0 Pin=R32-2
+Removed Pin From Net: NetName=DEBUG_1 Pin=R33-2
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U1-1
+Removed Pin From Net: NetName=I2C0_SCL Pin=U1-4
+Removed Pin From Net: NetName=I2C0_SDA Pin=U1-5
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U2-3
+Removed Pin From Net: NetName=TEMP_SENSE_VDD Pin=U3-1
+Removed Pin From Net: NetName=TEMP_SENSE Pin=U3-2
+Removed Pin From Net: NetName=V_USB_SENSE Pin=U4-3
+Removed Pin From Net: NetName=SDCMD Pin=U4-33
+Removed Pin From Net: NetName=SDDAT0 Pin=U4-34
+Removed Pin From Net: NetName=SDDAT1 Pin=U4-35
+Removed Pin From Net: NetName=SDDAT2 Pin=U4-36
+Removed Pin From Net: NetName=SDDAT3 Pin=U4-39
+Removed Pin From Net: NetName=SDCK Pin=U4-40
+Removed Pin From Net: NetName=SDCD Pin=U4-41
+Removed Pin From Net: NetName=CAN1_TX Pin=U4-43
+Removed Pin From Net: NetName=CAN1_RX Pin=U4-44
+Removed Pin From Net: NetName=GND Pin=U4-66
+Removed Pin From Net: NetName=GND Pin=U4-67
+Removed Pin From Net: NetName=GND Pin=U4-70
+Removed Pin From Net: NetName=GND Pin=U4-71
+Removed Pin From Net: NetName=GND Pin=U4-76
+Removed Pin From Net: NetName=GND Pin=U4-77
+Removed Pin From Net: NetName=CAN0_TX Pin=U4-92
+Removed Pin From Net: NetName=CAN0_RX Pin=U4-93
+Removed Pin From Net: NetName=USB_N Pin=U4-94
+Removed Pin From Net: NetName=USB_P Pin=U4-95
+Removed Pin From Net: NetName=GND Pin=U4-102
+Removed Pin From Net: NetName=GND Pin=U4-103
+Removed Pin From Net: NetName=SWDCLK Pin=U4-119
+Removed Pin From Net: NetName=VBAT Pin=U4-128
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U5-P5
+Removed Pin From Net: NetName=CAN0_STBY Pin=U5-P8
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U6-P5
+Removed Pin From Net: NetName=CAN1_STBY Pin=U6-P8
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U7-3
+Removed Pin From Net: NetName=ACCEL_TRIG Pin=U7-4
+Removed Pin From Net: NetName=ACCEL_INT_1 Pin=U7-5
+Removed Pin From Net: NetName=ACCEL_INT_2 Pin=U7-6
+Removed Pin From Net: NetName=VCC_MCU_3V3 Pin=U7-7
+Removed Pin From Net: NetName=ACCEL_CS Pin=U7-10
+Add Pin To Net: Unknown Pin: Pin DEBUG1-A
+Add Pin To Net: Unknown Pin: Pin DEBUG1-C
+Add Pin To Net: Unknown Pin: Pin DEBUG2-A
+Add Pin To Net: Unknown Pin: Pin DEBUG2-C
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Add Pin To Net: Unknown Pin: Pin SD_ACTIVITY-A
+Add Pin To Net: Unknown Pin: Pin SD_ACTIVITY-C
+Added Pin To Net: NetName=UART0_TX Pin=U4-66
+Added Pin To Net: NetName=UART0_RX Pin=U4-67
+Added Pin To Net: NetName=UART1_RX Pin=U4-70
+Added Pin To Net: NetName=UART1_TX Pin=U4-71
+Added Pin To Net: NetName=UART2_RX Pin=U4-76
+Added Pin To Net: NetName=UART2_TX Pin=U4-77
+Added Pin To Net: NetName=UART3_RX Pin=U4-102
+Added Pin To Net: NetName=UART3_TX Pin=U4-103
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Pin To Net: Unknown Pin: Pin XTAL2-4
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists

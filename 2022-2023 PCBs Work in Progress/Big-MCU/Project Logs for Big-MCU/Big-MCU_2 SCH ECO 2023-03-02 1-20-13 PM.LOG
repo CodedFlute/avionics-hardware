@@ -1,0 +1,39 @@
+Removed Parameter B:B from Part STATUS
+Removed Parameter DeviceName: from Part C3
+Removed Parameter DeviceName: from Part C4
+Removed Parameter DeviceName: from Part MICRO_SD
+Removed Parameter DeviceName: from Part STATUS
+Removed Parameter DeviceName: from Part U3
+Removed Parameter G:G from Part STATUS
+Removed Parameter R:R from Part STATUS
+Change Value of Parameter LibraryName in Part MICRO_SD Old=CUINSPACE_Managed New=MCU Board
+Change Value of Parameter PACKAGE in Part U3 Old=SOT-23 Microchip New=SOT95P237X112-3N
+Added Parameter Component Type=Standard to Part C3
+Added Parameter Component Type=Standard to Part C4
+Added Parameter Component Type=Standard to Part MICRO_SD
+Added Parameter Component Type=Standard to Part STATUS
+Added Parameter Component Type=Standard to Part U3
+Added Parameter Design Item ID=503398-1892 to Part MICRO_SD
+Added Parameter Design Item ID=FC0H473ZFTBR24 to Part C3
+Added Parameter Design Item ID=MSL0402RGB to Part STATUS
+Added Parameter Design Item ID=TAJA106K010RNJ to Part C4
+Added Parameter Design Item ID=TC1046VNBTR to Part U3
+Added Parameter Package=1206-POL to Part C4
+Added Parameter Package=CAPAE1080X580N to Part C3
+Added Parameter Package=MOLEX_503398-1892 to Part MICRO_SD
+Added Parameter Package=MSL0402RGB to Part STATUS
+Added Parameter Pin Count=2 to Part C3
+Added Parameter Pin Count=2 to Part C4
+Added Parameter Pin Count=3 to Part U3
+Added Parameter Pin Count=6 to Part STATUS
+Added Parameter Pin Count=10 to Part MICRO_SD
+Added Parameter Source=MCU Board.SCHLIB to Part C3
+Added Parameter Source=MCU Board.SCHLIB to Part C4
+Added Parameter Source=MCU Board.SCHLIB to Part MICRO_SD
+Added Parameter Source=MCU Board.SCHLIB to Part STATUS
+Added Parameter Source=MCU Board.SCHLIB to Part U3
+Update Managed Component C3 From CMP-002-000008-1[FC0H473ZFTBR24] To CMP-002-000008-1[FC0H473ZFTBR24] in Big-MCU_2.SchDoc
+Update Managed Component C4 From CMP-002-000009-1[TAJA106K010RNJ] To CMP-002-000009-1[TAJA106K010RNJ] in Big-MCU_2.SchDoc
+Update Managed Component MICRO_SD From CMP-006-000002-1[503398-1892] To CMP-006-000002-1[503398-1892] in Big-MCU_2.SchDoc
+Update Managed Component STATUS From CMP-003-000006-1[MSL0402RGB] To CMP-003-000006-1[MSL0402RGB] in Big-MCU_2.SchDoc
+Update Managed Component U3 From CMP-006-000023-1[TC1046VNBTR] To CMP-006-000023-1[TC1046VNBTR] in Big-MCU_2.SchDoc
