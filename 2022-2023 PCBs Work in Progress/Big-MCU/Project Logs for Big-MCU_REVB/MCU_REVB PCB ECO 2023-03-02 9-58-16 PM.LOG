@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=MICRO_SD Old DesignItemId=CMP-006-000002-2 New DesignItemId=CMP-006-000002-3
+Change Component Footprint: Designator=MICRO_SD Old Footprint=MOLX-503398-1892_V New Footprint=MOLX-503398-1892_V
+Change Managed Component Library Link : Designator=MICRO_SD Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=CA17DFD8-EF2D-4A9E-949F-F84EBA5F9CC3 New ItemGUID=CA17DFD8-EF2D-4A9E-949F-F84EBA5F9CC3 Old RevisionGUID=27cbcd8a-bc29-4786-b417-ce633db9b129 New RevisionGUID=f9544a27-7ffe-43ef-b8cd-c6d7f82a3b70

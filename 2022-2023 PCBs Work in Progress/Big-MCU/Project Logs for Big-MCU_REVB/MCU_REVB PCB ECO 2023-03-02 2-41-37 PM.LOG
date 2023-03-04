@@ -1,0 +1,85 @@
+Added Component: Designator=FB100(0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "BLM18PG471SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "BLM18PG471SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Added Component: Designator=L100(LQH43PN100M26L)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "LQH43PN100M26L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LQH43PN100M26L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "MCU Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQH43PN100M26L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "MCU Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_MCU_3V3 Pin=FB100-1
+Added Pin To Net: NetName=VCC_MCU_ANA Pin=FB100-2
+Added Pin To Net: NetName=VCC_MCU_VSW Pin=L100-1
+Added Pin To Net: NetName=VCC_MCU_VDDCORE Pin=L100-2
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-1
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-2
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-3
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-5
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-6,9
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-7
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-8
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-10
+Add Pin To Net: Unknown Pin: Pin MICRO_SD-P1-4
+Add Pin To Net: Unknown Pin: Pin USB-1
+Add Pin To Net: Unknown Pin: Pin USB-2
+Add Pin To Net: Unknown Pin: Pin USB-3
+Add Pin To Net: Unknown Pin: Pin USB-5
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Added Member To Class: ClassName=MCU_REVB_1 Member=Component FB100 BLM18PG471SN1D
+Added Member To Class: ClassName=MCU_REVB_1 Member=Component L100 LQH43PN100M26L
+Add Class Member: Failed to add class member : Component MICRO_SD 503398-1892
+Add Class Member: Failed to add class member : Component USB CMP-006-000000-1

@@ -1,0 +1,107 @@
+Change Component DesignItemId : Designator=TP1 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP2 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP3 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP4 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP7 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP8 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP11 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP12 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP13 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP14 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP15 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP16 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP17 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP18 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP19 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component DesignItemId : Designator=TP20 Old DesignItemId=CMP-005-000003-2 New DesignItemId=CMP-005-000003-3
+Change Component Footprint: Designator=TP1 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP2 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP3 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP4 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP5 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP6 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP7 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP8 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP11 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP12 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP13 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP14 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP15 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP16 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP17 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP18 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP19 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Footprint: Designator=TP20 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Comment : Designator=TP1 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP2 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP3 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP4 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP5 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP6 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP7 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP8 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP19 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Component Comment : Designator=TP20 Old Comment=CMP-005-000003-2 New Comment=5015
+Change Managed Component Library Link : Designator=TP1 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP2 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP3 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP4 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP5 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP6 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP7 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP8 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP11 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP12 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP13 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP14 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP15 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP16 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP17 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP18 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP19 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Change Managed Component Library Link : Designator=TP20 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62 New RevisionGUID=c9679356-db49-47ab-a1fd-ba2ba79b38fd
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists

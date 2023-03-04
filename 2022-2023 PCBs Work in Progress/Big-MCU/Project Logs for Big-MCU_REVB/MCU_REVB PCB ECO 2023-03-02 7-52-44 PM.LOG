@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=C4--
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CMP-002-000009-1 New DesignItemId=CMP-002-000009-2
+Change Component Footprint: Designator=C4 Old Footprint=1206-POL New Footprint=FP-TAJA-MFG
+Change Component Description : Designator=C4 Old Description= New Description=Cap Tant Solid 10uF 10V A CASE 10%( 3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 3 Ohm 125C T/R
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=D3B4A327-F97A-4BA1-BE12-A63E20C9360A New ItemGUID=D3B4A327-F97A-4BA1-BE12-A63E20C9360A Old RevisionGUID=584E68C1-005D-4415-9AF4-AD783BBD12BB New RevisionGUID=83ee9187-418f-4081-aca4-092ab2719afe
+Added Pin To Net: NetName=GND Pin=C4-1
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists

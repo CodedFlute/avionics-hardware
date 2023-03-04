@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=USB Old DesignItemId=CMP-006-000000-2 New DesignItemId=CMP-006-000000-3
+Change Component Comment : Designator=J2 Old Comment=CMP-006-000020-2 New Comment=DS2482-100
+Change Managed Component Library Link : Designator=USB Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=04251D51-9658-4744-9F32-AC44B2EFBB3D New ItemGUID=04251D51-9658-4744-9F32-AC44B2EFBB3D Old RevisionGUID=7fb2b45b-6486-44a9-88c7-1569fe8ba101 New RevisionGUID=19fd4f3c-6cbe-4180-bb31-2d6d8fe77123
+Added Pin To Net: NetName=NetC22_1 Pin=USB-11
+Added Member To Class: ClassName=MCU_REVB_1 Member=Component XTAL1 CM7V-T1A-32.768KHZ-12.5PF-10PPM-TA-QC

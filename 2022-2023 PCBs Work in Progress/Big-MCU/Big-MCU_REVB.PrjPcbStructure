@@ -1,5 +1,5 @@
-Record=TopLevelDocument|FileName=Big-MCU_0.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Big-MCU_0.SchDoc|FileName=Big-MCU_1.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Big-MCU_0.SchDoc|FileName=Big-MCU_2.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Big-MCU_0.SchDoc|FileName=Big-MCU_3.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Big-MCU_0.SchDoc|FileName=Big-MCU_4.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=MCU_REVB_0.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU_REVB_0.SchDoc|FileName=MCU_REVB_1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU_REVB_0.SchDoc|FileName=MCU_REVB_2.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MCU_REVB_0.SchDoc|FileName=MCU_REVB_3.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MCU_REVB_0.SchDoc|FileName=MCU_REVB_4.SchDoc|SheetNumber=5

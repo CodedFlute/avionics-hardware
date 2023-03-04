@@ -1,0 +1,53 @@
+Change Component DesignItemId : Designator=TP18 Old DesignItemId=CMP-005-000003-1 New DesignItemId=CMP-005-000003-2
+Change Component Footprint: Designator=TP18 Old Footprint=KEYSTONE_5015 New Footprint=KEYSTONE_5015
+Change Component Comment : Designator=TP18 Old Comment=CMP-005-000003-1 New Comment=5015
+Change Managed Component Library Link : Designator=TP18 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF New ItemGUID=2E4B73DB-A3F2-4891-AB4E-A858561A25BF Old RevisionGUID=26FB9917-AE2E-4A62-AEE0-83AF223C4C00 New RevisionGUID=46d8bca5-53ec-4b65-a521-06bcea5e3a62
+Add Pin To Net: Unknown Pin: Pin USB-1
+Add Pin To Net: Unknown Pin: Pin USB-2
+Add Pin To Net: Unknown Pin: Pin USB-3
+Add Pin To Net: Unknown Pin: Pin USB-5
+Add Pin To Net: Unknown Pin: Pin USB-SH1-6
+Add Net: Net with name "ACCEL_CS" already exists
+Add Net: Net with name "ACCEL_INT_1" already exists
+Add Net: Net with name "ACCEL_INT_2" already exists
+Add Net: Net with name "ACCEL_TRIG" already exists
+Add Net: Net with name "CAN0_RX" already exists
+Add Net: Net with name "CAN0_STBY" already exists
+Add Net: Net with name "CAN0_TX" already exists
+Add Net: Net with name "CAN1_RX" already exists
+Add Net: Net with name "CAN1_STBY" already exists
+Add Net: Net with name "CAN1_TX" already exists
+Add Net: Net with name "DEBUG_0" already exists
+Add Net: Net with name "DEBUG_1" already exists
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "RESET" already exists
+Add Net: Net with name "SCK" already exists
+Add Net: Net with name "SD_ACTIVE_LED" already exists
+Add Net: Net with name "SDCD" already exists
+Add Net: Net with name "SDCK" already exists
+Add Net: Net with name "SDCMD" already exists
+Add Net: Net with name "SDDAT0" already exists
+Add Net: Net with name "SDDAT1" already exists
+Add Net: Net with name "SDDAT2" already exists
+Add Net: Net with name "SDDAT3" already exists
+Add Net: Net with name "SPI1_MISO" already exists
+Add Net: Net with name "SPI1_MOSI" already exists
+Add Net: Net with name "SPI1_SCK" already exists
+Add Net: Net with name "STAT_B" already exists
+Add Net: Net with name "STAT_G" already exists
+Add Net: Net with name "STAT_R" already exists
+Add Net: Net with name "SWDCLK" already exists
+Add Net: Net with name "SWDIO" already exists
+Add Net: Net with name "SWO" already exists
+Add Net: Net with name "TEMP_SENSE_VDD" already exists
+Add Net: Net with name "TEMP_SENSE" already exists
+Add Net: Net with name "USB_N" already exists
+Add Net: Net with name "USB_P" already exists
+Add Net: Net with name "V_USB_SENSE" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Net: Net with name "VCC_MCU_3V3" already exists
+Add Class Member: Failed to add class member : Component USB CMP-006-000000-1
