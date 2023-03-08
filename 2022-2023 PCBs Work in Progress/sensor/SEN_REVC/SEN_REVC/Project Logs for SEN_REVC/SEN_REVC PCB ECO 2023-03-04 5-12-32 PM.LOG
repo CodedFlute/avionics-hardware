@@ -1,0 +1,245 @@
+Removed Pin From Net: NetName=GND Pin=U$6-P$1
+Change Component DesignItemId : Designator=U2 Old DesignItemId=MPU-9250-BREAKOUT New DesignItemId=CMP-002-000016-1
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MS561101BA03-50 New DesignItemId=CMP-002-000017-1
+Change Component DesignItemId : Designator=U3 Old DesignItemId=MS561101BA03-50 New DesignItemId=CMP-002-000017-1
+Change DesignItemId: Component "U$6" not found
+Change Component Footprint: Designator=U2 Old Footprint=MPU-9250-BREAKOUT New Footprint=MPU-9250-BREAKOUT
+Change Component Footprint: Designator=SJ6 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=U1 Old Footprint=SON125P500X300X100-8N New Footprint=SON125P500X300X100-8N
+Change Component Footprint: Designator=U3 Old Footprint=SON125P500X300X100-8N New Footprint=SON125P500X300X100-8N
+Change Component Comment : Designator=U2 Old Comment=MPU-9250-BREAKOUT New Comment=CMP-002-000016-1
+Change Component Comment : Designator=U1 Old Comment=MS561101BA03-50 New Comment=CMP-002-000017-1
+Change Component Comment : Designator=U3 Old Comment=MS561101BA03-50 New Comment=CMP-002-000017-1
+Change Component Comment : Designator=SJ6 Old Comment=SJ New Comment=Solder Jumper
+Change Comment: Unknown Component : U$6
+Change Component Description : Designator=U1 Old Description=BAROMETRIC PRESSURE SENSOR New Description=
+Change Component Description : Designator=U3 Old Description=BAROMETRIC PRESSURE SENSOR New Description=
+Change Component Library : Designator=U1 Old Library=Sensors Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=U2 Old Library=Sensors Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Component Library : Designator=U3 Old Library=Sensors Board.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Library: Component "U$6" not found
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID= New RevisionGUID=164EDD78-35FB-448F-91AA-D573ADEC30D5
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0F251A2E-387D-4032-B6C0-D4CC1D1BAA2F Old RevisionGUID= New RevisionGUID=11519BE3-6A95-4A93-BEED-6490B804E078
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID= New RevisionGUID=164EDD78-35FB-448F-91AA-D573ADEC30D5
+Change Managed Component Library Link: Component "U$6" not found
+Change component parameters: Designator = "SJ6" ("SJ6"); Footprint = "SJ"; UniqueID = "\FRAVXOTU" ("\FRAVXOTU")
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\IEFHXXFG" ("\IEFHXXFG")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "MPU-9250-BREAKOUT"; UniqueID = "\CVONIDOP" ("\CVONIDOP")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\HRVAPMMY" ("\HRVAPMMY")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters: Component "U$6" not found
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Added Component: Designator=SJ1(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ2(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ3(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ4(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ5(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ7(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ8(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ9(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ10(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ11(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ12(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ13(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ14(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ15(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ16(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ17(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ18(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ19(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ20(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ21(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ22(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ23(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ24(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ25(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ26(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ27(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ28(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ29(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ30(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ31(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ32(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ33(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ34(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ35(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ36(Solder Jumper-Footprint-1)
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=NetR1_2 Pin=SJ1-0
+Added Pin To Net: NetName=RX2 Pin=SJ1-1
+Added Pin To Net: NetName=NetR2_2 Pin=SJ2-0
+Added Pin To Net: NetName=TX2 Pin=SJ2-1
+Added Pin To Net: NetName=NetR1_2 Pin=SJ3-0
+Added Pin To Net: NetName=RX3 Pin=SJ3-1
+Added Pin To Net: NetName=NetR2_2 Pin=SJ4-0
+Added Pin To Net: NetName=TX3 Pin=SJ4-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ5-0
+Added Pin To Net: NetName=VCC_ALT Pin=SJ5-1
+Added Pin To Net: NetName=GPS_INT Pin=SJ6-0
+Added Pin To Net: NetName=GPS_INT Pin=SJ7-0
+Added Pin To Net: NetName=GPIO7 Pin=SJ7-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ8-0
+Added Pin To Net: NetName=NetFB1_1 Pin=SJ8-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ9-0
+Added Pin To Net: NetName=VCC_IMU Pin=SJ9-1
+Added Pin To Net: NetName=IMU_INT Pin=SJ10-0
+Added Pin To Net: NetName=GPIO4 Pin=SJ10-1
+Added Pin To Net: NetName=IMU_INT Pin=SJ11-0
+Added Pin To Net: NetName=GPIO5 Pin=SJ11-1
+Added Pin To Net: NetName=I2C_SCL Pin=SJ12-0
+Added Pin To Net: NetName=ALT_SCL Pin=SJ12-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ13-0
+Added Pin To Net: NetName=ALT_SDA Pin=SJ13-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ14-0
+Added Pin To Net: NetName=I2C_SCL Pin=SJ14-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ15-0
+Added Pin To Net: NetName=I2C_SDA Pin=SJ15-1
+Added Pin To Net: NetName=GPS_SCL Pin=SJ16-0
+Added Pin To Net: NetName=GPS_SDA Pin=SJ17-0
+Added Pin To Net: NetName=VCC_ALT Pin=SJ18-0
+Added Pin To Net: NetName=NetSJ18_1 Pin=SJ18-1
+Added Pin To Net: NetName=NetSJ18_1 Pin=SJ19-0
+Added Pin To Net: NetName=GND Pin=SJ19-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ20-0
+Added Pin To Net: NetName=VCC_GPS Pin=SJ20-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ21-0
+Added Pin To Net: NetName=GPIO22 Pin=SJ21-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ22-0
+Added Pin To Net: NetName=GPIO23 Pin=SJ22-1
+Added Pin To Net: NetName=AUX_SCL Pin=SJ23-0
+Added Pin To Net: NetName=ALT_SCL Pin=SJ23-1
+Added Pin To Net: NetName=AUX_SDA Pin=SJ24-0
+Added Pin To Net: NetName=ALT_SDA Pin=SJ24-1
+Added Pin To Net: NetName=SDO Pin=SJ25-0
+Added Pin To Net: NetName=IMU_VDDIO Pin=SJ25-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ26-0
+Added Pin To Net: NetName=GPIO0 Pin=SJ26-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ27-0
+Added Pin To Net: NetName=SPI_SCK Pin=SJ27-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ28-0
+Added Pin To Net: NetName=SPI_MOSI Pin=SJ28-1
+Added Pin To Net: NetName=SDO Pin=SJ29-0
+Added Pin To Net: NetName=SPI_MISO Pin=SJ29-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ30-0
+Added Pin To Net: NetName=GPIO1 Pin=SJ30-1
+Added Pin To Net: NetName=SDO Pin=SJ31-0
+Added Pin To Net: NetName=GND Pin=SJ31-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ32-0
+Added Pin To Net: NetName=VCC_ALT2 Pin=SJ32-1
+Added Pin To Net: NetName=I2C_SCL Pin=SJ33-0
+Added Pin To Net: NetName=ALT2_SCL Pin=SJ33-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ34-0
+Added Pin To Net: NetName=ALT2_SDA Pin=SJ34-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=SJ35-0
+Added Pin To Net: NetName=NetSJ35_1 Pin=SJ35-1
+Added Pin To Net: NetName=NetSJ35_1 Pin=SJ36-0
+Added Pin To Net: NetName=GND Pin=SJ36-1
+Add Pin To Net: Unknown Pin: Pin U$6-P$1,3,4,5,6,9,10,11,24
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ1 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ2 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ3 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ4 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ5 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ7 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ8 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ9 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ10 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ11 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ12 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ13 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ14 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ15 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ16 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ17 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ18 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ19 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ20 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ21 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ22 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ23 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ24 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ25 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ26 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ27 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ28 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ29 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ30 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ31 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ32 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ33 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ34 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ35 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ36 Solder Jumper

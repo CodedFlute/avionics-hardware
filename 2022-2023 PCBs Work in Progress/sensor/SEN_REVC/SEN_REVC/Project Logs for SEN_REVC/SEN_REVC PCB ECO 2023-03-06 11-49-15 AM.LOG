@@ -1,0 +1,207 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=SJ2-0
+Removed Pin From Net: NetName=NetR2_2 Pin=SJ4-0
+Removed Pin From Net: NetName=NetR2_1 Pin=U$6-20
+Change Component DesignItemId : Designator=U1 Old DesignItemId=CMP-002-000017-1 New DesignItemId=CMP-002-000017-2
+Change Component DesignItemId : Designator=U3 Old DesignItemId=CMP-002-000017-1 New DesignItemId=CMP-002-000017-2
+Change Component Footprint: Designator=U1 Old Footprint=SON125P500X300X100-8N New Footprint=MSI-MS561101BA03-50-8_V
+Change Component Footprint: Designator=U3 Old Footprint=SON125P500X300X100-8N New Footprint=MSI-MS561101BA03-50-8_V
+Change Component Comment : Designator=U2 Old Comment=CMP-002-000016-1 New Comment=MPU-9250 Breakout
+Change Component Comment : Designator=U1 Old Comment=CMP-002-000017-1 New Comment=MS561101BA03-50
+Change Component Comment : Designator=U3 Old Comment=CMP-002-000017-1 New Comment=MS561101BA03-50
+Change Component Designator: OldDesignator=U$6 NewDesignator=U6
+Change Component Description : Designator=U1 Old Description= New Description=Pressure Sensor 1.44V to 3.6V 0.01bar to 1.2bar Absolute 8-Pin QFN T/R
+Change Component Description : Designator=U3 Old Description= New Description=Pressure Sensor 1.44V to 3.6V 0.01bar to 1.2bar Absolute 8-Pin QFN T/R
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID=164EDD78-35FB-448F-91AA-D573ADEC30D5 New RevisionGUID=5c497b75-cf23-4900-9472-993517080710
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID=164EDD78-35FB-448F-91AA-D573ADEC30D5 New RevisionGUID=5c497b75-cf23-4900-9472-993517080710
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\XXFVAOEI" ("\XXFVAOEI")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\XMVSZCGC" ("\XMVSZCGC")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=GPS_ANT(5MMSMA)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=NetR2_2 Pin=SJ2-0
+Added Pin To Net: NetName=NetR2_2 Pin=SJ4-0
+Add Pin To Net: Unknown Pin: Pin U$6-P$1,3,4,5,6,9,10,11,24
+Add Pin To Net: Unknown Pin: Pin U$6-P$7
+Add Pin To Net: Unknown Pin: Pin U$6-P$12
+Add Pin To Net: Unknown Pin: Pin U$6-P$14
+Add Pin To Net: Unknown Pin: Pin U$6-P$19
+Add Pin To Net: Unknown Pin: Pin U$6-P$20
+Add Net: Net with name "ALT2_SCL" already exists
+Add Net: Net with name "ALT2_SDA" already exists
+Add Net: Net with name "ALT_SCL" already exists
+Add Net: Net with name "ALT_SDA" already exists
+Add Net: Net with name "AUX_SCL" already exists
+Add Net: Net with name "AUX_SDA" already exists
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO1" already exists
+Add Net: Net with name "GPIO4" already exists
+Add Net: Net with name "GPIO5" already exists
+Add Net: Net with name "GPIO6" already exists
+Add Net: Net with name "GPIO7" already exists
+Add Net: Net with name "GPIO22" already exists
+Add Net: Net with name "GPIO23" already exists
+Add Net: Net with name "GPS_INT" already exists
+Add Net: Net with name "GPS_RF" already exists
+Add Net: Net with name "GPS_SCL" already exists
+Add Net: Net with name "GPS_SDA" already exists
+Add Net: Net with name "GPS_WAKEUP" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "IMU_CS" already exists
+Add Net: Net with name "IMU_INT" already exists
+Add Net: Net with name "IMU_SCL" already exists
+Add Net: Net with name "IMU_SDA" already exists
+Add Net: Net with name "IMU_VDDIO" already exists
+Add Net: Net with name "NetFB1_1" already exists
+Add Net: Net with name "NetR1_1" already exists
+Add Net: Net with name "NetR1_2" already exists
+Add Net: Net with name "NetR2_1" already exists
+Add Net: Net with name "NetR2_2" already exists
+Add Net: Net with name "NetR5_2" already exists
+Add Net: Net with name "NetSJ18_1" already exists
+Add Net: Net with name "NetSJ35_1" already exists
+Add Net: Net with name "RX2" already exists
+Add Net: Net with name "RX3" already exists
+Add Net: Net with name "SDO" already exists
+Add Net: Net with name "SPI_MISO" already exists
+Add Net: Net with name "SPI_MOSI" already exists
+Add Net: Net with name "SPI_SCK" already exists
+Add Net: Net with name "TX2" already exists
+Add Net: Net with name "TX3" already exists
+Add Net: Net with name "VBACKUP" already exists
+Add Net: Net with name "VCC_ALT2" already exists
+Add Net: Net with name "VCC_ALT" already exists
+Add Net: Net with name "VCC_GPS" already exists
+Add Net: Net with name "VCC_IMU" already exists
+Add Class: Class already exists: SEN_REVC_1
+Add Class: Class already exists: SEN_REVC_2
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component GPS_ANT 5MMSMA
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Added Room: Name=SEN_REVC_0
+Added Room: Name=SEN_REVC_1
+Added Room: Name=SEN_REVC_2

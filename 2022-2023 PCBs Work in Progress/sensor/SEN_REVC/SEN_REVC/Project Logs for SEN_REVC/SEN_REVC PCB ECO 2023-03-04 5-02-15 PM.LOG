@@ -1,0 +1,187 @@
+Change Component Footprint: Designator=SJ6 Old Footprint=Solder Jumper-Footprint-1 New Footprint=SJ
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Add Component: Footprint Not Found ML-1220/F1AN
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin SJ1-1
+Add Pin To Net: Unknown Pin: Pin SJ1-2
+Add Pin To Net: Unknown Pin: Pin SJ2-1
+Add Pin To Net: Unknown Pin: Pin SJ2-2
+Add Pin To Net: Unknown Pin: Pin SJ3-1
+Add Pin To Net: Unknown Pin: Pin SJ3-2
+Add Pin To Net: Unknown Pin: Pin SJ4-1
+Add Pin To Net: Unknown Pin: Pin SJ4-2
+Add Pin To Net: Unknown Pin: Pin SJ5-1
+Add Pin To Net: Unknown Pin: Pin SJ5-2
+Add Pin To Net: Unknown Pin: Pin SJ6-2
+Add Pin To Net: Unknown Pin: Pin SJ7-1
+Add Pin To Net: Unknown Pin: Pin SJ7-2
+Add Pin To Net: Unknown Pin: Pin SJ8-1
+Add Pin To Net: Unknown Pin: Pin SJ8-2
+Add Pin To Net: Unknown Pin: Pin SJ9-1
+Add Pin To Net: Unknown Pin: Pin SJ9-2
+Add Pin To Net: Unknown Pin: Pin SJ10-1
+Add Pin To Net: Unknown Pin: Pin SJ10-2
+Add Pin To Net: Unknown Pin: Pin SJ11-1
+Add Pin To Net: Unknown Pin: Pin SJ11-2
+Add Pin To Net: Unknown Pin: Pin SJ12-1
+Add Pin To Net: Unknown Pin: Pin SJ12-2
+Add Pin To Net: Unknown Pin: Pin SJ13-1
+Add Pin To Net: Unknown Pin: Pin SJ13-2
+Add Pin To Net: Unknown Pin: Pin SJ14-1
+Add Pin To Net: Unknown Pin: Pin SJ14-2
+Add Pin To Net: Unknown Pin: Pin SJ15-1
+Add Pin To Net: Unknown Pin: Pin SJ15-2
+Add Pin To Net: Unknown Pin: Pin SJ16-2
+Add Pin To Net: Unknown Pin: Pin SJ17-2
+Add Pin To Net: Unknown Pin: Pin SJ18-1
+Add Pin To Net: Unknown Pin: Pin SJ18-2
+Add Pin To Net: Unknown Pin: Pin SJ19-1
+Add Pin To Net: Unknown Pin: Pin SJ19-2
+Add Pin To Net: Unknown Pin: Pin SJ20-1
+Add Pin To Net: Unknown Pin: Pin SJ20-2
+Add Pin To Net: Unknown Pin: Pin SJ21-1
+Add Pin To Net: Unknown Pin: Pin SJ21-2
+Add Pin To Net: Unknown Pin: Pin SJ22-1
+Add Pin To Net: Unknown Pin: Pin SJ22-2
+Add Pin To Net: Unknown Pin: Pin SJ23-1
+Add Pin To Net: Unknown Pin: Pin SJ23-2
+Add Pin To Net: Unknown Pin: Pin SJ24-1
+Add Pin To Net: Unknown Pin: Pin SJ24-2
+Add Pin To Net: Unknown Pin: Pin SJ25-1
+Add Pin To Net: Unknown Pin: Pin SJ25-2
+Add Pin To Net: Unknown Pin: Pin SJ26-1
+Add Pin To Net: Unknown Pin: Pin SJ26-2
+Add Pin To Net: Unknown Pin: Pin SJ27-1
+Add Pin To Net: Unknown Pin: Pin SJ27-2
+Add Pin To Net: Unknown Pin: Pin SJ28-1
+Add Pin To Net: Unknown Pin: Pin SJ28-2
+Add Pin To Net: Unknown Pin: Pin SJ29-1
+Add Pin To Net: Unknown Pin: Pin SJ29-2
+Add Pin To Net: Unknown Pin: Pin SJ30-1
+Add Pin To Net: Unknown Pin: Pin SJ30-2
+Add Pin To Net: Unknown Pin: Pin SJ31-1
+Add Pin To Net: Unknown Pin: Pin SJ31-2
+Add Pin To Net: Unknown Pin: Pin SJ32-1
+Add Pin To Net: Unknown Pin: Pin SJ32-2
+Add Pin To Net: Unknown Pin: Pin SJ33-1
+Add Pin To Net: Unknown Pin: Pin SJ33-2
+Add Pin To Net: Unknown Pin: Pin SJ34-1
+Add Pin To Net: Unknown Pin: Pin SJ34-2
+Add Pin To Net: Unknown Pin: Pin SJ35-1
+Add Pin To Net: Unknown Pin: Pin SJ35-2
+Add Pin To Net: Unknown Pin: Pin SJ36-1
+Add Pin To Net: Unknown Pin: Pin SJ36-2
+Add Pin To Net: Unknown Pin: Pin U$6-3
+Add Pin To Net: Unknown Pin: Pin U$6-4
+Add Pin To Net: Unknown Pin: Pin U$6-5
+Add Pin To Net: Unknown Pin: Pin U$6-6
+Add Pin To Net: Unknown Pin: Pin U$6-9
+Add Pin To Net: Unknown Pin: Pin U$6-10
+Add Pin To Net: Unknown Pin: Pin U$6-11
+Add Pin To Net: Unknown Pin: Pin U$6-24
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP ML-1220/F1AN
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Add Class Member: Failed to add class member : Component SJ1 SJ
+Add Class Member: Failed to add class member : Component SJ2 SJ
+Add Class Member: Failed to add class member : Component SJ3 SJ
+Add Class Member: Failed to add class member : Component SJ4 SJ
+Add Class Member: Failed to add class member : Component SJ5 SJ
+Add Class Member: Failed to add class member : Component SJ7 SJ
+Add Class Member: Failed to add class member : Component SJ8 SJ
+Add Class Member: Failed to add class member : Component SJ9 SJ
+Add Class Member: Failed to add class member : Component SJ10 SJ
+Add Class Member: Failed to add class member : Component SJ11 SJ
+Add Class Member: Failed to add class member : Component SJ12 SJ
+Add Class Member: Failed to add class member : Component SJ13 SJ
+Add Class Member: Failed to add class member : Component SJ14 SJ
+Add Class Member: Failed to add class member : Component SJ15 SJ
+Add Class Member: Failed to add class member : Component SJ16 SJ
+Add Class Member: Failed to add class member : Component SJ17 SJ
+Add Class Member: Failed to add class member : Component SJ18 SJ
+Add Class Member: Failed to add class member : Component SJ19 SJ
+Add Class Member: Failed to add class member : Component SJ20 SJ
+Add Class Member: Failed to add class member : Component SJ21 SJ
+Add Class Member: Failed to add class member : Component SJ22 SJ
+Add Class Member: Failed to add class member : Component SJ23 SJ
+Add Class Member: Failed to add class member : Component SJ24 SJ
+Add Class Member: Failed to add class member : Component SJ25 SJ
+Add Class Member: Failed to add class member : Component SJ26 SJ
+Add Class Member: Failed to add class member : Component SJ27 SJ
+Add Class Member: Failed to add class member : Component SJ28 SJ
+Add Class Member: Failed to add class member : Component SJ29 SJ
+Add Class Member: Failed to add class member : Component SJ30 SJ
+Add Class Member: Failed to add class member : Component SJ31 SJ
+Add Class Member: Failed to add class member : Component SJ32 SJ
+Add Class Member: Failed to add class member : Component SJ33 SJ
+Add Class Member: Failed to add class member : Component SJ34 SJ
+Add Class Member: Failed to add class member : Component SJ35 SJ
+Add Class Member: Failed to add class member : Component SJ36 SJ

@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=GND Pin=GPS_ANT-GND2
+Removed Pin From Net: NetName=GND Pin=GPS_ANT-GND
+Removed Pin From Net: NetName=GPS_RF Pin=GPS_ANT-RF
+Change Component DesignItemId : Designator=GPS_ANT Old DesignItemId=5MMSMA New DesignItemId=CMP-004-000004-2
+Change Component Footprint: Designator=GPS_ANT Old Footprint=5MMSMA New Footprint=FP-73251-2120-MFG
+Change Component Comment : Designator=GPS_ANT Old Comment=5MMSMA New Comment=0732512120
+Change Component Description : Designator=GPS_ANT Old Description= New Description=RF Connectors / Coaxial Connectors SMA ST PCB-JCK STD EMT
+Change Component Library : Designator=GPS_ANT Old Library=CU inSpace 2019 Parts.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Managed Component Library Link : Designator=GPS_ANT Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=721DE36F-CB69-433C-8464-8F4554F4AF07 Old RevisionGUID= New RevisionGUID=805f68fd-d9ab-4fc1-9852-32f28bc9c090
+Change component parameters: Designator = "GPS_ANT" ("GPS_ANT"); Footprint = "5MMSMA"; UniqueID = "\DNFYTGEZ" ("\DNFYTGEZ")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Body Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Center Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clock Frequency"; Value = "18GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "SMA,Coaxial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "16.26mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Threaded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polytetrafluoroethylene"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Cycles"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Edge"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "73251"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CU inSpace 2019 Parts.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "500V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Added Pin To Net: NetName=GPS_RF Pin=GPS_ANT-1
+Added Pin To Net: NetName=GND Pin=GPS_ANT-2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-3
+Added Pin To Net: NetName=GND Pin=GPS_ANT-4
+Added Pin To Net: NetName=GND Pin=GPS_ANT-5
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin U$6-P$1,3,4,5,6,9,10,11,24
+Add Pin To Net: Unknown Pin: Pin U$6-P$1,3,4,5,6,9,10,11,24
+Add Pin To Net: Unknown Pin: Pin U$6-P$2
+Add Pin To Net: Unknown Pin: Pin U$6-P$7
+Add Pin To Net: Unknown Pin: Pin U$6-P$8
+Add Pin To Net: Unknown Pin: Pin U$6-P$12
+Add Pin To Net: Unknown Pin: Pin U$6-P$13
+Add Pin To Net: Unknown Pin: Pin U$6-P$14
+Add Pin To Net: Unknown Pin: Pin U$6-P$16
+Add Pin To Net: Unknown Pin: Pin U$6-P$19
+Add Pin To Net: Unknown Pin: Pin U$6-P$20
+Add Pin To Net: Unknown Pin: Pin U$6-P$22
+Add Net: Net with name "ALT2_SCL" already exists
+Add Net: Net with name "ALT2_SDA" already exists
+Add Net: Net with name "ALT_SCL" already exists
+Add Net: Net with name "ALT_SDA" already exists
+Add Net: Net with name "AUX_SCL" already exists
+Add Net: Net with name "AUX_SDA" already exists
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO1" already exists
+Add Net: Net with name "GPIO4" already exists
+Add Net: Net with name "GPIO5" already exists
+Add Net: Net with name "GPIO6" already exists
+Add Net: Net with name "GPIO7" already exists
+Add Net: Net with name "GPIO22" already exists
+Add Net: Net with name "GPIO23" already exists
+Add Net: Net with name "GPS_INT" already exists
+Add Net: Net with name "GPS_RF" already exists
+Add Net: Net with name "GPS_SCL" already exists
+Add Net: Net with name "GPS_SDA" already exists
+Add Net: Net with name "GPS_WAKEUP" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "IMU_CS" already exists
+Add Net: Net with name "IMU_INT" already exists
+Add Net: Net with name "IMU_SCL" already exists
+Add Net: Net with name "IMU_SDA" already exists
+Add Net: Net with name "IMU_VDDIO" already exists
+Add Net: Net with name "NetFB1_1" already exists
+Add Net: Net with name "NetR1_1" already exists
+Add Net: Net with name "NetR1_2" already exists
+Add Net: Net with name "NetR2_1" already exists
+Add Net: Net with name "NetR2_2" already exists
+Add Net: Net with name "NetR5_2" already exists
+Add Net: Net with name "NetSJ18_1" already exists
+Add Net: Net with name "NetSJ35_1" already exists
+Add Net: Net with name "RX2" already exists
+Add Net: Net with name "RX3" already exists
+Add Net: Net with name "SDO" already exists
+Add Net: Net with name "SPI_MISO" already exists
+Add Net: Net with name "SPI_MOSI" already exists
+Add Net: Net with name "SPI_SCK" already exists
+Add Net: Net with name "TX2" already exists
+Add Net: Net with name "TX3" already exists
+Add Net: Net with name "VBACKUP" already exists
+Add Net: Net with name "VCC_ALT2" already exists
+Add Net: Net with name "VCC_ALT" already exists
+Add Net: Net with name "VCC_GPS" already exists
+Add Net: Net with name "VCC_IMU" already exists
+Add Class: Class already exists: SEN_REVC_1
+Add Class: Class already exists: SEN_REVC_2
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Add Class Member: Failed to add class member : Component U$6 CMP-002-000018-1
+Added Room: Name=SEN_REVC_0
+Added Room: Name=SEN_REVC_1
+Added Room: Name=SEN_REVC_2

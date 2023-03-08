@@ -1,0 +1,301 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C1206)
+Add component (AddParameter): Name = "DeviceName"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=F?(RESC1608X10N)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Cold Resistance"; Value = "175mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Type"; Value = "Board Mount (Cartridge Style Excluded)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SF-0603S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "175mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Coils"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "NDUC-07859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Added Component: Designator=GPS_ANT(5MMSMA)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found ML-1220/F1AN
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Added Component: Designator=SJ6(SJ)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Add Component: Footprint Not Found SJ
+Added Component: Designator=U1(SON125P500X300X100-8N)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "SMD-8 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MPU-9250-BREAKOUT)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SON125P500X300X100-8N)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "SMD-8 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U$6(XA1110)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "XA1110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "XA1110"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=F?-1
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin R6-1
+Added Pin To Net: NetName=GPIO6 Pin=SJ6-1
+Add Pin To Net: Unknown Pin: Pin SJ7-1
+Add Pin To Net: Unknown Pin: Pin SJ10-1
+Add Pin To Net: Unknown Pin: Pin SJ11-1
+Add Pin To Net: Unknown Pin: Pin SJ19-1
+Add Pin To Net: Unknown Pin: Pin SJ21-2
+Add Pin To Net: Unknown Pin: Pin SJ22-2
+Add Pin To Net: Unknown Pin: Pin SJ26-2
+Add Pin To Net: Unknown Pin: Pin SJ27-2
+Add Pin To Net: Unknown Pin: Pin SJ28-2
+Add Pin To Net: Unknown Pin: Pin SJ29-2
+Add Pin To Net: Unknown Pin: Pin SJ30-2
+Add Pin To Net: Unknown Pin: Pin SJ31-2
+Add Pin To Net: Unknown Pin: Pin SJ36-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-FSYNC
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U3-3
+Add Pin To Net: Unknown Pin: Pin U$6-3
+Add Pin To Net: Unknown Pin: Pin U$6-4
+Add Pin To Net: Unknown Pin: Pin U$6-5
+Add Pin To Net: Unknown Pin: Pin U$6-6
+Add Pin To Net: Unknown Pin: Pin U$6-9
+Add Pin To Net: Unknown Pin: Pin U$6-10
+Add Pin To Net: Unknown Pin: Pin U$6-11
+Add Pin To Net: Unknown Pin: Pin U$6-24
+Added Pin To Net: NetName=GND Pin=U$6-P$1
+Added Pin To Net: NetName=3.3V_FUSED Pin=C6-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=F?-2
+Added Net: Name=3.3V_FUSED
+Added Pin To Net: NetName=ALT2_SCL Pin=U3-8
+Added Net: Name=ALT2_SCL
+Added Pin To Net: NetName=ALT2_SDA Pin=U3-7
+Added Net: Name=ALT2_SDA
+Added Pin To Net: NetName=ALT_SCL Pin=U1-8
+Added Net: Name=ALT_SCL
+Added Pin To Net: NetName=ALT_SDA Pin=U1-7
+Added Net: Name=ALT_SDA
+Added Pin To Net: NetName=AUX_SCL Pin=U2-AUX_CL
+Added Net: Name=AUX_SCL
+Added Pin To Net: NetName=AUX_SDA Pin=U2-AUX_DA
+Added Net: Name=AUX_SDA
+Added Pin To Net: NetName=GPS_INT Pin=U$6-P$16
+Added Net: Name=GPS_INT
+Added Pin To Net: NetName=GPS_RF Pin=GPS_ANT-RF
+Added Pin To Net: NetName=GPS_RF Pin=U$6-P$2
+Added Net: Name=GPS_RF
+Added Pin To Net: NetName=GPS_SCL Pin=U$6-P$14
+Added Net: Name=GPS_SCL
+Added Pin To Net: NetName=GPS_SDA Pin=U$6-P$13
+Added Net: Name=GPS_SDA
+Added Pin To Net: NetName=GPS_WAKEUP Pin=U$6-P$12
+Added Net: Name=GPS_WAKEUP
+Added Net: Name=I2C_SCL
+Add Net: Net with name "I2C_SCL" already exists
+Added Net: Name=I2C_SDA
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=IMU_CS Pin=U2-NCS
+Added Net: Name=IMU_CS
+Added Pin To Net: NetName=IMU_INT Pin=U2-INT
+Added Net: Name=IMU_INT
+Added Pin To Net: NetName=IMU_SCL Pin=U2-SCL/SCLK
+Added Net: Name=IMU_SCL
+Added Pin To Net: NetName=IMU_SDA Pin=U2-SDA/SDI
+Added Net: Name=IMU_SDA
+Added Pin To Net: NetName=IMU_VDDIO Pin=C5-1
+Added Pin To Net: NetName=IMU_VDDIO Pin=U2-VDDIO
+Added Net: Name=IMU_VDDIO
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetR1_1 Pin=U$6-P$19
+Added Net: Name=NetR1_1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=U$6-P$20
+Added Net: Name=NetR2_1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR5_2 Pin=U$6-P$22
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetSJ18_1 Pin=U1-4
+Added Pin To Net: NetName=NetSJ18_1 Pin=U1-5
+Added Net: Name=NetSJ18_1
+Added Pin To Net: NetName=NetSJ35_1 Pin=U3-4
+Added Pin To Net: NetName=NetSJ35_1 Pin=U3-5
+Added Net: Name=NetSJ35_1
+Added Net: Name=RX2
+Added Net: Name=RX3
+Added Pin To Net: NetName=SDO Pin=U2-AD0/SDO
+Added Net: Name=SDO
+Added Net: Name=TX2
+Added Net: Name=TX3
+Added Pin To Net: NetName=VBACKUP Pin=C4-2
+Added Pin To Net: NetName=VBACKUP Pin=U$6-P$8
+Added Net: Name=VBACKUP
+Added Pin To Net: NetName=VCC_ALT2 Pin=C7-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=U3-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=U3-2
+Added Net: Name=VCC_ALT2
+Added Pin To Net: NetName=VCC_ALT Pin=C3-1
+Added Pin To Net: NetName=VCC_ALT Pin=U1-1
+Added Pin To Net: NetName=VCC_ALT Pin=U1-2
+Added Net: Name=VCC_ALT
+Added Pin To Net: NetName=VCC_GPS Pin=C1-1
+Added Pin To Net: NetName=VCC_GPS Pin=C2-1
+Added Pin To Net: NetName=VCC_GPS Pin=FB1-2
+Added Pin To Net: NetName=VCC_GPS Pin=U$6-P$7
+Added Net: Name=VCC_GPS
+Added Pin To Net: NetName=VCC_IMU Pin=U2-VDD
+Added Net: Name=VCC_IMU
+Added Class: Name=SEN_REVC_0
+Added Class: Name=SEN_REVC_1
+Added Class: Name=SEN_REVC_2

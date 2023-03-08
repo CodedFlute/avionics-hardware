@@ -1,0 +1,759 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C1206)
+Add component (AddParameter): Name = "DeviceName"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C1206)
+Add component (AddParameter): Name = "DeviceName"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Added Component: Designator=F1(RESC1608X10N)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Cold Resistance"; Value = "175mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Type"; Value = "Board Mount (Cartridge Style Excluded)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SF-0603S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "175mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Coils"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "NDUC-07859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Coils"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "NDUC-07859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "FERRITE_BEAD"; VariantName = "[No Variations]"
+Added Component: Designator=GPS_ANT(FP-73251-2120-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "18GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "SMA,Coaxial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "16.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Threaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polytetrafluoroethylene"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Cycles"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Edge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "73251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CU inSpace 2019 Parts.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "500V"; VariantName = "[No Variations]"
+Added Component: Designator=GPS_ANT(5MMSMA)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Add Component: Footprint Not Found R1206
+Added Component: Designator=SJ1(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ1(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ2(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ2(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ3(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ3(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ4(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ4(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ5(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ5(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ6(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ6(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ7(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ7(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ8(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ8(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ9(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ9(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ10(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ10(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ11(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ11(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ12(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ12(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ13(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ13(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ14(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ14(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ15(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ15(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ16(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ16(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ17(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ17(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ18(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ18(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ19(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ19(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ20(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ20(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ21(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ21(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ22(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ22(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ23(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ23(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ24(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ24(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ25(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ25(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ26(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ26(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ27(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ27(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ28(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ28(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ29(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ29(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ30(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ30(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ31(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ31(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ32(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ32(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ33(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ33(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ34(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ34(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ35(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ35(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ36(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ36(Solder Jumper-Footprint-1)
+Added Component: Designator=U1(SON125P500X300X100-8N)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MSI-MS561101BA03-50-8_V)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MPU-9250-BREAKOUT)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MPU-9250-BREAKOUT)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MPU-9250-BREAKOUT"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SON125P500X300X100-8N)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MSI-MS561101BA03-50-8_V)
+Add component (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Added Component: Designator=U6(XA1110-Footprint-1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "XA1110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "XA1110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "XA1110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "XA1110"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_GPS Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC_GPS Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC_ALT Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBACKUP Pin=C4-2
+Added Pin To Net: NetName=IMU_VDDIO Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3.3V_FUSED Pin=C6-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC_ALT2 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=F1-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=F1-2
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Pin To Net: NetName=VCC_GPS Pin=FB1-2
+Added Pin To Net: NetName=GPS_RF Pin=GPS_ANT-1
+Added Pin To Net: NetName=GND Pin=GPS_ANT-2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-3
+Added Pin To Net: NetName=GND Pin=GPS_ANT-4
+Added Pin To Net: NetName=GND Pin=GPS_ANT-5
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-GND
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=NetR1_2 Pin=SJ1-0
+Added Pin To Net: NetName=RX2 Pin=SJ1-1
+Added Pin To Net: NetName=NetR2_2 Pin=SJ2-0
+Added Pin To Net: NetName=TX2 Pin=SJ2-1
+Added Pin To Net: NetName=NetR1_2 Pin=SJ3-0
+Added Pin To Net: NetName=RX3 Pin=SJ3-1
+Added Pin To Net: NetName=NetR2_2 Pin=SJ4-0
+Added Pin To Net: NetName=TX3 Pin=SJ4-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ5-0
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ5-0
+Added Pin To Net: NetName=VCC_ALT Pin=SJ5-1
+Added Pin To Net: NetName=GPS_INT Pin=SJ6-0
+Added Pin To Net: NetName=GPIO6 Pin=SJ6-1
+Added Pin To Net: NetName=GPS_INT Pin=SJ7-0
+Added Pin To Net: NetName=GPIO7 Pin=SJ7-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ8-0
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ8-0
+Added Pin To Net: NetName=NetFB1_1 Pin=SJ8-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ9-0
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ9-0
+Added Pin To Net: NetName=VCC_IMU Pin=SJ9-1
+Added Pin To Net: NetName=IMU_INT Pin=SJ10-0
+Added Pin To Net: NetName=GPIO4 Pin=SJ10-1
+Added Pin To Net: NetName=IMU_INT Pin=SJ11-0
+Added Pin To Net: NetName=GPIO5 Pin=SJ11-1
+Added Pin To Net: NetName=I2C_SCL Pin=SJ12-0
+Added Pin To Net: NetName=ALT_SCL Pin=SJ12-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ13-0
+Added Pin To Net: NetName=ALT_SDA Pin=SJ13-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ14-0
+Added Pin To Net: NetName=I2C_SCL Pin=SJ14-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ15-0
+Added Pin To Net: NetName=I2C_SDA Pin=SJ15-1
+Added Pin To Net: NetName=GPS_SCL Pin=SJ16-0
+Added Pin To Net: NetName=GPS_SDA Pin=SJ17-0
+Added Pin To Net: NetName=VCC_ALT Pin=SJ18-0
+Added Pin To Net: NetName=NetSJ18_1 Pin=SJ18-1
+Added Pin To Net: NetName=NetSJ18_1 Pin=SJ19-0
+Added Pin To Net: NetName=GND Pin=SJ19-1
+Added Pin To Net: NetName=GND Pin=SJ19-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ20-0
+Added Pin To Net: NetName=VCC_GPS Pin=SJ20-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ21-0
+Added Pin To Net: NetName=GPIO22 Pin=SJ21-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ22-0
+Added Pin To Net: NetName=GPIO23 Pin=SJ22-1
+Added Pin To Net: NetName=AUX_SCL Pin=SJ23-0
+Added Pin To Net: NetName=ALT_SCL Pin=SJ23-1
+Added Pin To Net: NetName=AUX_SDA Pin=SJ24-0
+Added Pin To Net: NetName=ALT_SDA Pin=SJ24-1
+Added Pin To Net: NetName=SDO Pin=SJ25-0
+Added Pin To Net: NetName=IMU_VDDIO Pin=SJ25-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ26-0
+Added Pin To Net: NetName=GPIO0 Pin=SJ26-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ27-0
+Added Pin To Net: NetName=SPI_SCK Pin=SJ27-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ28-0
+Added Pin To Net: NetName=SPI_MOSI Pin=SJ28-1
+Added Pin To Net: NetName=SDO Pin=SJ29-0
+Added Pin To Net: NetName=SPI_MISO Pin=SJ29-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ30-0
+Added Pin To Net: NetName=GPIO1 Pin=SJ30-1
+Added Pin To Net: NetName=SDO Pin=SJ31-0
+Added Pin To Net: NetName=GND Pin=SJ31-1
+Added Pin To Net: NetName=GND Pin=SJ31-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ32-0
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ32-0
+Added Pin To Net: NetName=VCC_ALT2 Pin=SJ32-1
+Added Pin To Net: NetName=I2C_SCL Pin=SJ33-0
+Added Pin To Net: NetName=ALT2_SCL Pin=SJ33-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ34-0
+Added Pin To Net: NetName=ALT2_SDA Pin=SJ34-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=SJ35-0
+Added Pin To Net: NetName=NetSJ35_1 Pin=SJ35-1
+Added Pin To Net: NetName=NetSJ35_1 Pin=SJ36-0
+Added Pin To Net: NetName=GND Pin=SJ36-1
+Added Pin To Net: NetName=GND Pin=SJ36-1
+Added Pin To Net: NetName=VCC_ALT Pin=U1-1
+Added Pin To Net: NetName=VCC_ALT Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetSJ18_1 Pin=U1-4
+Added Pin To Net: NetName=NetSJ18_1 Pin=U1-5
+Added Pin To Net: NetName=ALT_SDA Pin=U1-7
+Added Pin To Net: NetName=ALT_SCL Pin=U1-8
+Added Pin To Net: NetName=SDO Pin=U2-AD0/SDO
+Added Pin To Net: NetName=AUX_SCL Pin=U2-AUX_CL
+Added Pin To Net: NetName=AUX_SDA Pin=U2-AUX_DA
+Added Pin To Net: NetName=GND Pin=U2-FSYNC
+Added Pin To Net: NetName=GND Pin=U2-FSYNC
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=IMU_INT Pin=U2-INT
+Added Pin To Net: NetName=IMU_CS Pin=U2-NCS
+Added Pin To Net: NetName=IMU_SCL Pin=U2-SCL/SCLK
+Added Pin To Net: NetName=IMU_SDA Pin=U2-SDA/SDI
+Added Pin To Net: NetName=IMU_VDDIO Pin=U2-VDDIO
+Added Pin To Net: NetName=VCC_IMU Pin=U2-VDD
+Added Pin To Net: NetName=VCC_ALT2 Pin=U3-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetSJ35_1 Pin=U3-4
+Added Pin To Net: NetName=NetSJ35_1 Pin=U3-5
+Added Pin To Net: NetName=ALT2_SDA Pin=U3-7
+Added Pin To Net: NetName=ALT2_SCL Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GPS_RF Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=VCC_GPS Pin=U6-7
+Added Pin To Net: NetName=VBACKUP Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=GPS_SDA Pin=U6-13
+Added Pin To Net: NetName=GPS_INT Pin=U6-16
+Added Pin To Net: NetName=NetR5_2 Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-24
+Add Pin To Net: Unknown Pin: Pin U$6-P$1,3,4,5,6,9,10,11,24
+Add Pin To Net: Unknown Pin: Pin U$6-P$12
+Add Pin To Net: Unknown Pin: Pin U$6-P$14
+Add Pin To Net: Unknown Pin: Pin U$6-P$19
+Add Pin To Net: Unknown Pin: Pin U$6-P$20
+Add Net: Net with name "ALT2_SCL" already exists
+Add Net: Net with name "ALT2_SDA" already exists
+Add Net: Net with name "ALT_SCL" already exists
+Add Net: Net with name "ALT_SDA" already exists
+Add Net: Net with name "AUX_SCL" already exists
+Add Net: Net with name "AUX_SDA" already exists
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO1" already exists
+Add Net: Net with name "GPIO4" already exists
+Add Net: Net with name "GPIO5" already exists
+Add Net: Net with name "GPIO6" already exists
+Add Net: Net with name "GPIO7" already exists
+Add Net: Net with name "GPIO22" already exists
+Add Net: Net with name "GPIO23" already exists
+Add Net: Net with name "GPS_INT" already exists
+Add Net: Net with name "GPS_RF" already exists
+Add Net: Net with name "GPS_SCL" already exists
+Add Net: Net with name "GPS_SDA" already exists
+Add Net: Net with name "GPS_WAKEUP" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "IMU_CS" already exists
+Add Net: Net with name "IMU_INT" already exists
+Add Net: Net with name "IMU_SCL" already exists
+Add Net: Net with name "IMU_SDA" already exists
+Add Net: Net with name "IMU_VDDIO" already exists
+Add Net: Net with name "NetFB1_1" already exists
+Add Net: Net with name "NetR1_1" already exists
+Add Net: Net with name "NetR1_2" already exists
+Add Net: Net with name "NetR2_1" already exists
+Add Net: Net with name "NetR2_2" already exists
+Add Net: Net with name "NetR5_2" already exists
+Add Net: Net with name "NetSJ18_1" already exists
+Add Net: Net with name "NetSJ35_1" already exists
+Add Net: Net with name "RX2" already exists
+Add Net: Net with name "RX3" already exists
+Add Net: Net with name "SDO" already exists
+Add Net: Net with name "SPI_MISO" already exists
+Add Net: Net with name "SPI_MOSI" already exists
+Add Net: Net with name "SPI_SCK" already exists
+Add Net: Net with name "TX2" already exists
+Add Net: Net with name "TX3" already exists
+Add Net: Net with name "VBACKUP" already exists
+Add Net: Net with name "VCC_ALT2" already exists
+Add Net: Net with name "VCC_ALT" already exists
+Add Net: Net with name "VCC_GPS" already exists
+Add Net: Net with name "VCC_IMU" already exists
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C1 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C1 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C2 1 µF
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C2 1 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C3 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C3 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C4 1 µF
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component C4 1 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C5 10 nF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C5 10 nF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C6 10 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C6 10 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C7 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component C7 0.1 µF
+Added Member To Class: ClassName=SEN_REVC_0 Member=Component F1 0603SFF150F/32-2
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component FB1 742792651
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component FB1 742792651
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component GPS_ANT 5MMSMA
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component GPS_ANT 0732512120
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R1 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R2 470 O
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R3 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R4 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R5 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R6 10 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R7 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Add Class Member: Failed to add class member : Component R8 2.2 KO
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ1 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ1 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ2 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ2 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ3 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ3 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ4 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ4 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ5 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ5 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ6 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ6 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ7 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ7 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ8 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ8 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ9 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ9 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ10 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ10 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ11 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ11 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ12 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ12 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ13 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ13 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ14 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ14 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ15 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ15 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ16 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ16 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ17 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ17 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ18 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ18 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ19 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ19 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ20 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ20 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ21 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ21 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ22 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component SJ22 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ23 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ23 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ24 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ24 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ25 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ25 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ26 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ26 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ27 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ27 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ28 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ28 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ29 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ29 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ30 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ30 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ31 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ31 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ32 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ32 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ33 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ33 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ34 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ34 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ35 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ35 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ36 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ36 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U1 MS561101BA03-50
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U1 CMP-002-000017-1
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U2 CMP-002-000016-1
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U2 MPU-9250 Breakout
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U3 MS561101BA03-50
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component U3 CMP-002-000017-1
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component U6 XA1110
+Add Class Member: Failed to add class member : Component U$6 CMP-002-000018-1
