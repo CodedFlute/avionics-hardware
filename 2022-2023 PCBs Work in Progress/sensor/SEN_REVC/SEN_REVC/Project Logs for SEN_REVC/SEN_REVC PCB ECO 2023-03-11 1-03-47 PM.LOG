@@ -1,0 +1,39 @@
+Change Component DesignItemId : Designator=FB1 Old DesignItemId=FERRITE_BEAD-0603 New DesignItemId=CMP-00022-1
+Change Component Footprint: Designator=FB1 Old Footprint=0603 New Footprint=FP-742792651-MFG
+Change Component Description : Designator=FB1 Old Description=Ferrite Bead (blocks, cores, rings, chokes, etc.)    Inductor with layers of ferrite used to suppress high frequencies. Often used to isolate high frequency noise.   SparkFun Products:  IOIO-OTG - V2.2  SparkFun SAMD21 Mini Breakout  SparkFun 6 Degrees of Freedom Breakout - LSM6DS3  SparkFun SAMD21 Dev Breakout New Description=Ferrite Beads WE-CBF 0603 SMD Bead 100MHz 600Ohm 1000mA
+Change Component Library : Designator=FB1 Old Library=SparkFun-Coils.IntLib New Library=Americas- CU InSpace-  Carleton University
+Change Managed Component Library Link : Designator=FB1 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=8aed9231-03d1-42d3-875e-d15be9786013 Old RevisionGUID= New RevisionGUID=ac826503-7fc3-4982-9258-18937f17fdbb
+Change component parameters: Designator = "FB1" ("FB1"); Footprint = "0603"; UniqueID = "\MRBVCLHA" ("\MRBVCLHA")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "200mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "600R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max DC Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "WE-CBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000141oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1

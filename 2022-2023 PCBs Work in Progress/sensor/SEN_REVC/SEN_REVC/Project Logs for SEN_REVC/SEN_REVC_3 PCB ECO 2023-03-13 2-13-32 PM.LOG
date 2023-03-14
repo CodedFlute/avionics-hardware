@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=I2C0_SCL Pin=SJ16-2
+Removed Pin From Net: NetName=I2C0_SDA Pin=SJ17-2
+Added Component: Designator=GPS_BACKUP(BHSD-2032-SM-Footprint-1)
+Added Pin To Net: NetName=VBACKUP Pin=GPS_BACKUP-1
+Added Pin To Net: NetName=GND Pin=GPS_BACKUP-2
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component GPS_BACKUP BHSD-2032-SM

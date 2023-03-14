@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ35 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ36 Solder Jumper

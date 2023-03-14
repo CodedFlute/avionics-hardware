@@ -1,0 +1,35 @@
+Change Footprint: Cannot match pads with new footprint in component :SJ1 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ2 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ3 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ4 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ8 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :U6 Footprint:XA1110-Footprint-1
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin SJ1-0
+Add Pin To Net: Unknown Pin: Pin SJ2-0
+Add Pin To Net: Unknown Pin: Pin SJ3-0
+Add Pin To Net: Unknown Pin: Pin SJ4-0
+Add Pin To Net: Unknown Pin: Pin SJ8-0
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-16
+Add Pin To Net: Unknown Pin: Pin U6-19
+Add Pin To Net: Unknown Pin: Pin U6-20
+Add Pin To Net: Unknown Pin: Pin U6-22
+Add Pin To Net: Unknown Pin: Pin U6-24
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1

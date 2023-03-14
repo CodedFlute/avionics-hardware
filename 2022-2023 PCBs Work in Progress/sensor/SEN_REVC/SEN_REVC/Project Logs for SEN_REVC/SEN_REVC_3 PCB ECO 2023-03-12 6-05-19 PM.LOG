@@ -1,0 +1,47 @@
+Change Footprint: Cannot match pads with new footprint in component :SJ1 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ2 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ3 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ4 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ8 Footprint:Solder Jumper-Footprint-1
+Change Component Comment : Designator=U6 Old Comment=Comment New Comment=XA1110
+Change Managed Component Library Link : Designator=U6 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=3366DFB5-085A-43BF-B4FB-22986A768479 Old RevisionGUID= New RevisionGUID=55df2294-fdbe-4147-b54b-fc96c7ebd035
+Change component parameters: Designator = "U6" ("U6"); Footprint = "XA1110-Footprint-1"; UniqueID = "\RVWYHZLK" ("\RVWYHZLK")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "XA1110"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Add Pin To Net: Unknown Pin: Pin SJ1-0
+Add Pin To Net: Unknown Pin: Pin SJ2-0
+Add Pin To Net: Unknown Pin: Pin SJ3-0
+Add Pin To Net: Unknown Pin: Pin SJ4-0
+Add Pin To Net: Unknown Pin: Pin SJ8-0
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GPS_RF Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=VCC_GPS Pin=U6-7
+Added Pin To Net: NetName=VBACKUP Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=GPS_WAKEUP Pin=U6-12
+Added Pin To Net: NetName=GPS_SDA Pin=U6-13
+Added Pin To Net: NetName=GPS_SCL Pin=U6-14
+Added Pin To Net: NetName=GPS_INT Pin=U6-16
+Added Pin To Net: NetName=NetR1_1 Pin=U6-19
+Added Pin To Net: NetName=NetR2_1 Pin=U6-20
+Added Pin To Net: NetName=NetR5_2 Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-24
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Added Member To Class: ClassName=SEN_REVC_1 Member=Component U6 XA1110

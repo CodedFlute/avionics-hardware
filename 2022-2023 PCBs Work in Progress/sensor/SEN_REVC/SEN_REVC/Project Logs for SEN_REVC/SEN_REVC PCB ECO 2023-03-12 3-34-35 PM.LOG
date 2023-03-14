@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=SDO Pin=U2-AD0/SDO
+Removed Pin From Net: NetName=AUX_SCL Pin=U2-AUX_CL
+Removed Pin From Net: NetName=AUX_SDA Pin=U2-AUX_DA
+Removed Pin From Net: NetName=GND Pin=U2-FSYNC
+Removed Pin From Net: NetName=GND Pin=U2-GND
+Removed Pin From Net: NetName=IMU_INT Pin=U2-INT
+Removed Pin From Net: NetName=IMU_CS Pin=U2-NCS
+Removed Pin From Net: NetName=IMU_SCL Pin=U2-SCL/SCLK
+Removed Pin From Net: NetName=IMU_SDA Pin=U2-SDA/SDI
+Removed Pin From Net: NetName=VCC_IMU Pin=U2-VDD
+Removed Pin From Net: NetName=IMU_VDDIO Pin=U2-VDDIO
+Change Component DesignItemId : Designator=U2 Old DesignItemId=CMP-002-000016-1 New DesignItemId=CMP-00021-1
+Change Component Footprint: Designator=U2 Old Footprint=MPU-9250-BREAKOUT New Footprint=New footprint 1
+Change Component Comment : Designator=U2 Old Comment=MPU-9250 Breakout New Comment=ICM-20948 Breakout
+Change Component Description : Designator=U2 Old Description= New Description=Sparkfun ICM-20948 breakout
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=0F251A2E-387D-4032-B6C0-D4CC1D1BAA2F New ItemGUID=efd435c9-2af6-4ae3-b9d1-a1481a2e2bff Old RevisionGUID=11519BE3-6A95-4A93-BEED-6490B804E078 New RevisionGUID=fe51ce78-2e0b-4419-91e5-d557fde9ce7c
+Change component parameters: Designator = "U2" ("U2"); Footprint = "MPU-9250-BREAKOUT"; UniqueID = "\JYTQPDXN" ("\JYTQPDXN")
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=IMU_INT Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=AUX_SDA Pin=U2-4
+Added Pin To Net: NetName=AUX_SCL Pin=U2-5
+Added Pin To Net: NetName=VCC_IMU Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=IMU_VDDIO Pin=U2-8
+Added Pin To Net: NetName=IMU_SDA Pin=U2-9
+Added Pin To Net: NetName=IMU_SCL Pin=U2-10
+Added Pin To Net: NetName=SDO Pin=U2-11
+Added Pin To Net: NetName=IMU_CS Pin=U2-12
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1

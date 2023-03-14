@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=GPS_BACKUP Old DesignItemId=CMP-001-0000-1 New DesignItemId=CMP-001-0000-2
+Change Component Footprint: Designator=GPS_BACKUP Old Footprint=BHSD-2032-SM-Footprint-1 New Footprint=BHSD-2032-SM-Footprint-1
+Change Managed Component Library Link : Designator=GPS_BACKUP Old VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID=d383766f-abf7-4dfe-ac5b-e7e633e56ab2 New ItemGUID=d383766f-abf7-4dfe-ac5b-e7e633e56ab2 Old RevisionGUID=797dd68a-6fc8-4eb6-a577-529b6bd109c4 New RevisionGUID=83033c9f-49f6-4582-a256-4e881c4dcb6c
+Add Net: Net with name "I2C0_SCL" already exists
+Add Net: Net with name "I2C0_SDA" already exists

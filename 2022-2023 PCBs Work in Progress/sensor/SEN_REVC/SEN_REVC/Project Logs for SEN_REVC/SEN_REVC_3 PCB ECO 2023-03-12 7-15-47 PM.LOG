@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ12-1
+Removed Pin From Net: NetName=ALT_SCL Pin=SJ12-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ13-1
+Removed Pin From Net: NetName=ALT_SDA Pin=SJ13-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ14-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ15-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ33-1
+Removed Pin From Net: NetName=ALT2_SCL Pin=SJ33-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ34-1
+Removed Pin From Net: NetName=ALT2_SDA Pin=SJ34-2
+Added Component: Designator=SJ35(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ36(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ37(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ38(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ39(Solder Jumper-Footprint-1)
+Added Component: Designator=SJ40(Solder Jumper-Footprint-1)
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-NEG
+Add Pin To Net: Unknown Pin: Pin GPS_BACKUP-POS
+Added Pin To Net: NetName=ALT_SCL Pin=SJ12-1
+Added Pin To Net: NetName=I2C0_SCL Pin=SJ12-2
+Added Pin To Net: NetName=ALT_SDA Pin=SJ13-1
+Added Pin To Net: NetName=I2C0_SDA Pin=SJ13-2
+Added Pin To Net: NetName=I2C0_SCL Pin=SJ14-2
+Added Pin To Net: NetName=I2C0_SDA Pin=SJ15-2
+Added Pin To Net: NetName=I2C_SCL Pin=SJ16-2
+Added Pin To Net: NetName=I2C_SDA Pin=SJ17-2
+Added Pin To Net: NetName=ALT2_SCL Pin=SJ33-1
+Added Pin To Net: NetName=I2C0_SCL Pin=SJ33-2
+Added Pin To Net: NetName=ALT2_SDA Pin=SJ34-1
+Added Pin To Net: NetName=I2C0_SDA Pin=SJ34-2
+Added Pin To Net: NetName=IMU_SCL Pin=SJ35-1
+Added Pin To Net: NetName=I2C1_SCL Pin=SJ35-2
+Added Pin To Net: NetName=IMU_SDA Pin=SJ36-1
+Added Pin To Net: NetName=I2C1_SDA Pin=SJ36-2
+Added Pin To Net: NetName=ALT_SCL Pin=SJ37-1
+Added Pin To Net: NetName=I2C1_SCL Pin=SJ37-2
+Added Pin To Net: NetName=ALT_SDA Pin=SJ38-1
+Added Pin To Net: NetName=I2C1_SDA Pin=SJ38-2
+Added Pin To Net: NetName=ALT2_SCL Pin=SJ39-1
+Added Pin To Net: NetName=I2C1_SCL Pin=SJ39-2
+Added Pin To Net: NetName=ALT2_SDA Pin=SJ40-1
+Added Pin To Net: NetName=I2C1_SDA Pin=SJ40-2
+Add Class Member: Failed to add class member : Component GPS_BACKUP CMP-002-000015-1
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ35 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ36 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ37 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ38 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ39 Solder Jumper
+Added Member To Class: ClassName=SEN_REVC_2 Member=Component SJ40 Solder Jumper

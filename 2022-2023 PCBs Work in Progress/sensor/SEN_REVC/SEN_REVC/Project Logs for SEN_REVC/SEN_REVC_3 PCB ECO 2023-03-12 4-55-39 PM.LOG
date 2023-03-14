@@ -1,0 +1,645 @@
+Removed Pin From Net: NetName=GND Pin=GPS_ANT-GND2
+Removed Pin From Net: NetName=GND Pin=GPS_ANT-GND
+Removed Pin From Net: NetName=GPS_RF Pin=GPS_ANT-RF
+Removed Pin From Net: NetName=GPS_INT Pin=SJ6-2
+Removed Pin From Net: NetName=GPS_INT Pin=SJ7-2
+Removed Pin From Net: NetName=VCC_IMU Pin=SJ9-2
+Removed Pin From Net: NetName=IMU_INT Pin=SJ10-2
+Removed Pin From Net: NetName=IMU_INT Pin=SJ11-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ12-1
+Removed Pin From Net: NetName=ALT_SCL Pin=SJ12-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ13-1
+Removed Pin From Net: NetName=ALT_SDA Pin=SJ13-2
+Removed Pin From Net: NetName=IMU_SCL Pin=SJ14-1
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ14-2
+Removed Pin From Net: NetName=IMU_SDA Pin=SJ15-1
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ15-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ16-1
+Removed Pin From Net: NetName=GPS_SCL Pin=SJ16-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ17-1
+Removed Pin From Net: NetName=GPS_SDA Pin=SJ17-2
+Removed Pin From Net: NetName=VCC_ALT Pin=SJ18-2
+Removed Pin From Net: NetName=N$6 Pin=SJ19-2
+Removed Pin From Net: NetName=GPS_WAKEUP Pin=SJ20-1
+Removed Pin From Net: NetName=VCC_GPS Pin=SJ20-2
+Removed Pin From Net: NetName=GPS_WAKEUP Pin=SJ21-1
+Removed Pin From Net: NetName=GPIO22 Pin=SJ21-2
+Removed Pin From Net: NetName=GPS_WAKEUP Pin=SJ22-1
+Removed Pin From Net: NetName=GPIO23 Pin=SJ22-2
+Removed Pin From Net: NetName=AUX_SCL Pin=SJ23-2
+Removed Pin From Net: NetName=AUX_SDA Pin=SJ24-2
+Removed Pin From Net: NetName=SDO Pin=SJ25-1
+Removed Pin From Net: NetName=IMU_VDDIO Pin=SJ25-2
+Removed Pin From Net: NetName=IMU_CS Pin=SJ26-1
+Removed Pin From Net: NetName=GPIO0 Pin=SJ26-2
+Removed Pin From Net: NetName=IMU_SCL Pin=SJ27-1
+Removed Pin From Net: NetName=SPI_SCK Pin=SJ27-2
+Removed Pin From Net: NetName=IMU_SDA Pin=SJ28-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=SJ28-2
+Removed Pin From Net: NetName=SDO Pin=SJ29-1
+Removed Pin From Net: NetName=SPI_MISO Pin=SJ29-2
+Removed Pin From Net: NetName=IMU_CS Pin=SJ30-1
+Removed Pin From Net: NetName=GPIO1 Pin=SJ30-2
+Removed Pin From Net: NetName=SDO Pin=SJ31-1
+Removed Pin From Net: NetName=GND Pin=SJ31-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ33-1
+Removed Pin From Net: NetName=ALT2_SCL Pin=SJ33-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ34-1
+Removed Pin From Net: NetName=ALT2_SDA Pin=SJ34-2
+Removed Pin From Net: NetName=VCC_ALT2 Pin=SJ35-2
+Removed Pin From Net: NetName=N$7 Pin=SJ36-2
+Removed Pin From Net: NetName=SDO Pin=U2-AD0/SDO
+Removed Pin From Net: NetName=AUX_SCL Pin=U2-AUX_CL
+Removed Pin From Net: NetName=AUX_SDA Pin=U2-AUX_DA
+Removed Pin From Net: NetName=GND Pin=U2-FSYNC
+Removed Pin From Net: NetName=GND Pin=U2-GND
+Removed Pin From Net: NetName=IMU_INT Pin=U2-INT
+Removed Pin From Net: NetName=IMU_CS Pin=U2-NCS
+Removed Pin From Net: NetName=IMU_SCL Pin=U2-SCL/SCLK
+Removed Pin From Net: NetName=IMU_SDA Pin=U2-SDA/SDI
+Removed Pin From Net: NetName=VCC_IMU Pin=U2-VDD
+Removed Pin From Net: NetName=IMU_VDDIO Pin=U2-VDDIO
+Removed Pin From Net: NetName=GND Pin=U$6-P$1
+Removed Pin From Net: NetName=GPS_RF Pin=U$6-P$2
+Removed Pin From Net: NetName=GND Pin=U$6-P$3
+Removed Pin From Net: NetName=GND Pin=U$6-P$4
+Removed Pin From Net: NetName=GND Pin=U$6-P$5
+Removed Pin From Net: NetName=GND Pin=U$6-P$6
+Removed Pin From Net: NetName=VCC_GPS Pin=U$6-P$7
+Removed Pin From Net: NetName=VBACKUP Pin=U$6-P$8
+Removed Pin From Net: NetName=GND Pin=U$6-P$9
+Removed Pin From Net: NetName=GND Pin=U$6-P$10
+Removed Pin From Net: NetName=GND Pin=U$6-P$11
+Removed Pin From Net: NetName=GPS_WAKEUP Pin=U$6-P$12
+Removed Pin From Net: NetName=GPS_SDA Pin=U$6-P$13
+Removed Pin From Net: NetName=GPS_SCL Pin=U$6-P$14
+Removed Pin From Net: NetName=GPS_INT Pin=U$6-P$16
+Removed Pin From Net: NetName=GND Pin=U$6-P$24
+Change Component Footprint: Designator=GPS_ANT Old Footprint=5MMSMA New Footprint=CINC-142-0701-801_V
+Change Component Footprint: Designator=FB1 Old Footprint=0603 New Footprint=FP-742792651-MFG
+Change Component Footprint: Designator=F1 Old Footprint=FUS0603_TYCO New Footprint=RESC1608X10N
+Change Component Footprint: Designator=U2 Old Footprint=MPU-9250-BREAKOUT New Footprint=New footprint 1
+Change Component Footprint: Designator=R1 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R2 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R3 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R4 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R5 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R6 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R7 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R8 Old Footprint=R1206 New Footprint=6-0805_N
+Change Footprint: Cannot match pads with new footprint in component :SJ1 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ2 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ3 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ4 Footprint:Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ5 Footprint:Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ6 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ7 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ8 Footprint:Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ9 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ10 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ11 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ12 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ13 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ14 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ15 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ16 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ17 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ18 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ19 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ20 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ21 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ22 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ23 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ24 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ25 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ26 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ27 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ28 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ29 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ30 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ31 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SJ32 Footprint:Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ33 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ34 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ35 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=SJ36 Old Footprint=SJ New Footprint=Solder Jumper-Footprint-1
+Change Component Footprint: Designator=U1 Old Footprint=SON125P500X300X100-8N New Footprint=MSI-MS561101BA03-50-8_V
+Change Component Footprint: Designator=U3 Old Footprint=SON125P500X300X100-8N New Footprint=MSI-MS561101BA03-50-8_V
+Change Footprint: Cannot match pads with new footprint in component :U$6 Footprint:XA1110-Footprint-1
+Change Component Comment : Designator=GPS_ANT Old Comment= New Comment=142-0701-801
+Change Component Comment : Designator=F1 Old Comment= New Comment=0603SFF150F/32-2
+Change Component Comment : Designator=U2 Old Comment= New Comment=ICM-20948 Breakout
+Change Component Comment : Designator=SJ1 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ2 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ3 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ4 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ5 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ6 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ7 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ8 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ9 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ10 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ11 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ12 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ13 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ14 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ15 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ16 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ17 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ18 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ19 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ20 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ21 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ22 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ23 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ24 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ25 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ26 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ27 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ28 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ29 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ30 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ31 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ32 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ33 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ34 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ35 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=SJ36 Old Comment= New Comment=Solder Jumper
+Change Component Comment : Designator=U$6 Old Comment= New Comment=XA1110
+Change Comment: Unknown Component : GPS_BACKUP
+Change Component Designator: OldDesignator=U$6 NewDesignator=U6
+Change Managed Component Library Link : Designator=F1 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=098bcdba-a882-4869-b182-6bd2d7ca8234 Old RevisionGUID= New RevisionGUID=0b611af2-eb89-44a1-b09e-b3c651fa8634
+Change Managed Component Library Link : Designator=FB1 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=8aed9231-03d1-42d3-875e-d15be9786013 Old RevisionGUID= New RevisionGUID=ac826503-7fc3-4982-9258-18937f17fdbb
+Change Managed Component Library Link : Designator=GPS_ANT Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=721DE36F-CB69-433C-8464-8F4554F4AF07 Old RevisionGUID= New RevisionGUID=ea60c8c0-22be-43db-aef8-4496fc952302
+Change Managed Component Library Link: Component "GPS_BACKUP" not found
+Change Managed Component Library Link : Designator=SJ1 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ2 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ3 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ4 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ5 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ6 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ7 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ8 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ9 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ10 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ11 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ12 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ13 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ14 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ15 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ16 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ17 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ18 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ19 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ20 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ21 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ22 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ23 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ24 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ25 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ26 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ27 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ28 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ29 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ30 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ31 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ32 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ33 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ34 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ35 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=SJ36 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=0800be41-4120-474e-b2a9-1c3e48800a3e Old RevisionGUID= New RevisionGUID=5175838b-95cc-4267-ac31-5f577ae473d0
+Change Managed Component Library Link : Designator=U1 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID= New RevisionGUID=5c497b75-cf23-4900-9472-993517080710
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=efd435c9-2af6-4ae3-b9d1-a1481a2e2bff Old RevisionGUID= New RevisionGUID=fe51ce78-2e0b-4419-91e5-d557fde9ce7c
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=EA4B4D48-9C6C-4195-8070-8FEA75F814D7 Old RevisionGUID= New RevisionGUID=5c497b75-cf23-4900-9472-993517080710
+Change Managed Component Library Link : Designator=U6 Old VaultGUID= New VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B Old ItemGUID= New ItemGUID=3366DFB5-085A-43BF-B4FB-22986A768479 Old RevisionGUID= New RevisionGUID=55df2294-fdbe-4147-b54b-fc96c7ebd035
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0805"; UniqueID = "\PWCVGPRM" ("\PWCVGPRM")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0805"; UniqueID = "\OUHAHLAK" ("\OUHAHLAK")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0805"; UniqueID = "\SHGYIXGA" ("\SHGYIXGA")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0805"; UniqueID = "\CECADXLQ" ("\CECADXLQ")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0805"; UniqueID = "\AKEAYOMO" ("\AKEAYOMO")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C1206"; UniqueID = "\DAEQCSOF" ("\DAEQCSOF")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0805"; UniqueID = "\IOAOCRDH" ("\IOAOCRDH")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "C-EU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUS0603_TYCO"; UniqueID = "\SABCKCOU" ("\SABCKCOU")
+Change component parameters (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Cold Resistance"; Value = "175mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Type"; Value = "Board Mount (Cartridge Style Excluded)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SF-0603S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "175mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB1" ("FB1"); Footprint = "0603"; UniqueID = "\MRBVCLHA" ("\MRBVCLHA")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "200mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "600R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max DC Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "WE-CBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000141oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "GPS_ANT" ("GPS_ANT"); Footprint = "5MMSMA"; UniqueID = "\DNFYTGEZ" ("\DNFYTGEZ")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Body Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Center Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clock Frequency"; Value = "18GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "SMA,Coaxial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "16.26mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Threaded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polytetrafluoroethylene"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "CU inSpace 2019 Parts"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Cycles"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Edge"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "5MMSMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "73251"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CU inSpace 2019 Parts.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "BNC-F2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "500V"; VariantName = "[No Variations]"
+Change component parameters: Component "GPS_BACKUP" not found
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R1206"; UniqueID = "\GZQUIALJ" ("\GZQUIALJ")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R1206"; UniqueID = "\JODMKUHB" ("\JODMKUHB")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R1206"; UniqueID = "\FAOYQSAL" ("\FAOYQSAL")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R1206"; UniqueID = "\YYCBGUEG" ("\YYCBGUEG")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R1206"; UniqueID = "\XZULLIKL" ("\XZULLIKL")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R1206"; UniqueID = "\WBCOQFLE" ("\WBCOQFLE")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R1206"; UniqueID = "\KPXAQREM" ("\KPXAQREM")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R1206"; UniqueID = "\QPOALIPB" ("\QPOALIPB")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "R1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "R-US_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "rcl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SPICEPREFIX"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "R-US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SJ1" ("SJ1"); Footprint = "SJ"; UniqueID = "\HHKXBSLF" ("\HHKXBSLF")
+Change component parameters: Designator = "SJ2" ("SJ2"); Footprint = "SJ"; UniqueID = "\UWKTPHZE" ("\UWKTPHZE")
+Change component parameters: Designator = "SJ3" ("SJ3"); Footprint = "SJ"; UniqueID = "\NBRMGZPM" ("\NBRMGZPM")
+Change component parameters: Designator = "SJ4" ("SJ4"); Footprint = "SJ"; UniqueID = "\IWUKDHQU" ("\IWUKDHQU")
+Change component parameters: Designator = "SJ5" ("SJ5"); Footprint = "SJ"; UniqueID = "\OBBKGMSK" ("\OBBKGMSK")
+Change component parameters: Designator = "SJ6" ("SJ6"); Footprint = "SJ"; UniqueID = "\OKIHQZMA" ("\OKIHQZMA")
+Change component parameters: Designator = "SJ7" ("SJ7"); Footprint = "SJ"; UniqueID = "\HXOIDHWJ" ("\HXOIDHWJ")
+Change component parameters: Designator = "SJ8" ("SJ8"); Footprint = "SJ"; UniqueID = "\HLIYVLQF" ("\HLIYVLQF")
+Change component parameters: Designator = "SJ9" ("SJ9"); Footprint = "SJ"; UniqueID = "\PTQGSRCI" ("\PTQGSRCI")
+Change component parameters: Designator = "SJ10" ("SJ10"); Footprint = "SJ"; UniqueID = "\WOIEXHSN" ("\WOIEXHSN")
+Change component parameters: Designator = "SJ11" ("SJ11"); Footprint = "SJ"; UniqueID = "\VUMCPFHX" ("\VUMCPFHX")
+Change component parameters: Designator = "SJ12" ("SJ12"); Footprint = "SJ"; UniqueID = "\HEILLQML" ("\HEILLQML")
+Change component parameters: Designator = "SJ13" ("SJ13"); Footprint = "SJ"; UniqueID = "\AWYCBXPQ" ("\AWYCBXPQ")
+Change component parameters: Designator = "SJ14" ("SJ14"); Footprint = "SJ"; UniqueID = "\PLFZWTDN" ("\PLFZWTDN")
+Change component parameters: Designator = "SJ15" ("SJ15"); Footprint = "SJ"; UniqueID = "\BNYWJKOL" ("\BNYWJKOL")
+Change component parameters: Designator = "SJ16" ("SJ16"); Footprint = "SJ"; UniqueID = "\ZPNVASQO" ("\ZPNVASQO")
+Change component parameters: Designator = "SJ17" ("SJ17"); Footprint = "SJ"; UniqueID = "\VVQXNBMV" ("\VVQXNBMV")
+Change component parameters: Designator = "SJ18" ("SJ18"); Footprint = "SJ"; UniqueID = "\HXHWPZFH" ("\HXHWPZFH")
+Change component parameters: Designator = "SJ19" ("SJ19"); Footprint = "SJ"; UniqueID = "\DIZRTKOG" ("\DIZRTKOG")
+Change component parameters: Designator = "SJ20" ("SJ20"); Footprint = "SJ"; UniqueID = "\SHEQBDYZ" ("\SHEQBDYZ")
+Change component parameters: Designator = "SJ21" ("SJ21"); Footprint = "SJ"; UniqueID = "\IGMQONZA" ("\IGMQONZA")
+Change component parameters: Designator = "SJ22" ("SJ22"); Footprint = "SJ"; UniqueID = "\KPPASSUB" ("\KPPASSUB")
+Change component parameters: Designator = "SJ23" ("SJ23"); Footprint = "SJ"; UniqueID = "\KGGHQOCG" ("\KGGHQOCG")
+Change component parameters: Designator = "SJ24" ("SJ24"); Footprint = "SJ"; UniqueID = "\LAYEXWXY" ("\LAYEXWXY")
+Change component parameters: Designator = "SJ25" ("SJ25"); Footprint = "SJ"; UniqueID = "\XRWZKXOR" ("\XRWZKXOR")
+Change component parameters: Designator = "SJ26" ("SJ26"); Footprint = "SJ"; UniqueID = "\GIUXJJGC" ("\GIUXJJGC")
+Change component parameters: Designator = "SJ27" ("SJ27"); Footprint = "SJ"; UniqueID = "\QVEYHNRJ" ("\QVEYHNRJ")
+Change component parameters: Designator = "SJ28" ("SJ28"); Footprint = "SJ"; UniqueID = "\VCLKHXJK" ("\VCLKHXJK")
+Change component parameters: Designator = "SJ29" ("SJ29"); Footprint = "SJ"; UniqueID = "\ACFKMCYZ" ("\ACFKMCYZ")
+Change component parameters: Designator = "SJ30" ("SJ30"); Footprint = "SJ"; UniqueID = "\KZJOOZAN" ("\KZJOOZAN")
+Change component parameters: Designator = "SJ31" ("SJ31"); Footprint = "SJ"; UniqueID = "\NVCAAUHG" ("\NVCAAUHG")
+Change component parameters: Designator = "SJ32" ("SJ32"); Footprint = "SJ"; UniqueID = "\BYEVANME" ("\BYEVANME")
+Change component parameters: Designator = "SJ33" ("SJ33"); Footprint = "SJ"; UniqueID = "\ODGIRTII" ("\ODGIRTII")
+Change component parameters: Designator = "SJ34" ("SJ34"); Footprint = "SJ"; UniqueID = "\FWZNWQNN" ("\FWZNWQNN")
+Change component parameters: Designator = "SJ35" ("SJ35"); Footprint = "SJ"; UniqueID = "\BASBAFHL" ("\BASBAFHL")
+Change component parameters: Designator = "SJ36" ("SJ36"); Footprint = "SJ"; UniqueID = "\DVPBVVFQ" ("\DVPBVVFQ")
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\XXFVAOEI" ("\XXFVAOEI")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "MPU-9250-BREAKOUT"; UniqueID = "\JYTQPDXN" ("\JYTQPDXN")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SON125P500X300X100-8N"; UniqueID = "\XMVSZCGC" ("\XMVSZCGC")
+Change component parameters (AddParameter): Name = "AVAILABILITY"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_ROHS_COMPLIANCE"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "I2C,SPI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON125P500X300X100-8N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pressure Type"; Value = "Barometric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resolution"; Value = "24b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "12.5uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MS561101BA03-50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_PURCHASE_URL"; Value = "https://www.te.com/usa-en/product-MS561101BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U$6" ("U6"); Footprint = "XA1110"; UniqueID = "\RVWYHZLK" ("\RVWYHZLK")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Sensors Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "XA1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "Sensors Board.SCHLIB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "XA1110"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPS_RF Pin=GPS_ANT-1
+Added Pin To Net: NetName=GND Pin=GPS_ANT-2
+Added Pin To Net: NetName=GND Pin=GPS_ANT-3
+Added Pin To Net: NetName=GND Pin=GPS_ANT-4
+Added Pin To Net: NetName=GND Pin=GPS_ANT-5
+Added Pin To Net: NetName=GPS_INT Pin=SJ6-0
+Added Pin To Net: NetName=GPS_INT Pin=SJ7-0
+Added Pin To Net: NetName=VCC_IMU Pin=SJ9-1
+Added Pin To Net: NetName=IMU_INT Pin=SJ10-0
+Added Pin To Net: NetName=IMU_INT Pin=SJ11-0
+Added Pin To Net: NetName=I2C_SCL Pin=SJ12-0
+Added Pin To Net: NetName=ALT_SCL Pin=SJ12-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ13-0
+Added Pin To Net: NetName=ALT_SDA Pin=SJ13-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ14-0
+Added Pin To Net: NetName=I2C_SCL Pin=SJ14-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ15-0
+Added Pin To Net: NetName=I2C_SDA Pin=SJ15-1
+Added Pin To Net: NetName=GPS_SCL Pin=SJ16-0
+Added Pin To Net: NetName=GPS_SDA Pin=SJ17-0
+Added Pin To Net: NetName=VCC_ALT Pin=SJ18-0
+Added Pin To Net: NetName=N$6 Pin=SJ19-0
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ20-0
+Added Pin To Net: NetName=VCC_GPS Pin=SJ20-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ21-0
+Added Pin To Net: NetName=GPIO22 Pin=SJ21-1
+Added Pin To Net: NetName=GPS_WAKEUP Pin=SJ22-0
+Added Pin To Net: NetName=GPIO23 Pin=SJ22-1
+Added Pin To Net: NetName=AUX_SCL Pin=SJ23-0
+Added Pin To Net: NetName=AUX_SDA Pin=SJ24-0
+Added Pin To Net: NetName=SDO Pin=SJ25-0
+Added Pin To Net: NetName=IMU_VDDIO Pin=SJ25-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ26-0
+Added Pin To Net: NetName=GPIO0 Pin=SJ26-1
+Added Pin To Net: NetName=IMU_SCL Pin=SJ27-0
+Added Pin To Net: NetName=SPI_SCK Pin=SJ27-1
+Added Pin To Net: NetName=IMU_SDA Pin=SJ28-0
+Added Pin To Net: NetName=SPI_MOSI Pin=SJ28-1
+Added Pin To Net: NetName=SDO Pin=SJ29-0
+Added Pin To Net: NetName=SPI_MISO Pin=SJ29-1
+Added Pin To Net: NetName=IMU_CS Pin=SJ30-0
+Added Pin To Net: NetName=GPIO1 Pin=SJ30-1
+Added Pin To Net: NetName=SDO Pin=SJ31-0
+Added Pin To Net: NetName=GND Pin=SJ31-1
+Added Pin To Net: NetName=I2C_SCL Pin=SJ33-0
+Added Pin To Net: NetName=ALT2_SCL Pin=SJ33-1
+Added Pin To Net: NetName=I2C_SDA Pin=SJ34-0
+Added Pin To Net: NetName=ALT2_SDA Pin=SJ34-1
+Added Pin To Net: NetName=VCC_ALT2 Pin=SJ35-0
+Added Pin To Net: NetName=N$7 Pin=SJ36-0
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=IMU_INT Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=AUX_SDA Pin=U2-4
+Added Pin To Net: NetName=AUX_SCL Pin=U2-5
+Added Pin To Net: NetName=VCC_IMU Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=IMU_VDDIO Pin=U2-8
+Added Pin To Net: NetName=IMU_SDA Pin=U2-9
+Added Pin To Net: NetName=IMU_SCL Pin=U2-10
+Added Pin To Net: NetName=SDO Pin=U2-11
+Added Pin To Net: NetName=IMU_CS Pin=U2-12
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-16
+Add Pin To Net: Unknown Pin: Pin U6-24
+Change Net Name : Old Net Name=N$3 New Net Name=+3.3V
+Change Net Name : Old Net Name=N$6 New Net Name=NetSJ18_1
+Change Net Name : Old Net Name=N$7 New Net Name=NetSJ35_1
+Added Pin To Net: NetName=3.3V_FUSED Pin=C6-1
+Added Pin To Net: NetName=3.3V_FUSED Pin=F1-2
+Added Pin To Net: NetName=3.3V_FUSED Pin=SJ9-0
+Added Net: Name=3.3V_FUSED
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_1 Pin=SJ8-1
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Class: Name=SEN_REVC_0
+Added Class: Name=SEN_REVC_1
+Added Class: Name=SEN_REVC_2
