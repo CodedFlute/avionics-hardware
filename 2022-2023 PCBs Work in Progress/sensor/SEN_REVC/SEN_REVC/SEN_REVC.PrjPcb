@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GPGUEWXB
 
 [Document5]
-DocumentPath=SEN_REVC_3.PcbDoc
+DocumentPath=SEN_REVC.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GPRQRNJZ
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SEN_REVC\Design Rule Check - SEN_REVC_3.html
