@@ -36,6 +36,8 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B
+ReleaseVaultName=Americas- CU InSpace-  Carleton University
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=0D51059A-7567-4922-900C-B3DB03C4D13B&ItemGUID=AE7B351F-DC36-45EA-A685-542AB5F38069&RevisionGUID=C43AC5BA-C6DA-4CC4-8A32-AAB0B020698D&"MainFilename=GEN2PCB_Template.PrjPcb"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -48,6 +50,9 @@ CrossRefFollowFromMainSettings=1
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
 
 [Document1]
 DocumentPath=SEN_REVC.PcbDoc
@@ -134,6 +139,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SEN_REVC\Design Rule Check - SEN_REVC_3.html
 DItemRevisionGUID=
@@ -147,6 +169,26 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [OutputGroup1]
 Name=Netlist Outputs
