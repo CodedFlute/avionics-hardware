@@ -1,0 +1,33 @@
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=GPIO 2
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=GPIO 3
+Change Net Name : Old Net Name=NetMD1_30 New Net Name=PGC_INT
+Change Net Name : Old Net Name=NetMD1_31 New Net Name=PGD_INT
+Change Net Name : Old Net Name=NetMD1_32 New Net Name=RESET
+Change Net Name : Old Net Name=NetMD1_43 New Net Name=GPIO 6
+Change Net Name : Old Net Name=NetMD1_44 New Net Name=GPIO 7
+Change Net Name : Old Net Name=NetMD1_45 New Net Name=GPIO 8
+Change Net Name : Old Net Name=NetMD1_46 New Net Name=GPIO 9
+Added Pin To Net: NetName=D+ Pin=D5-5
+Added Pin To Net: NetName=D+ Pin=J3-3
+Added Net: Name=D+
+Add Net: Net with name "D+" already exists
+Added Pin To Net: NetName=D- Pin=D5-4
+Added Pin To Net: NetName=D- Pin=J3-2
+Added Net: Name=D-
+Add Net: Net with name "D-" already exists
+Added Pin To Net: NetName=RADIO_CTS Pin=U1-23
+Added Net: Name=RADIO_CTS
+Add Net: Net with name "RADIO_CTS" already exists
+Added Pin To Net: NetName=RADIO_RTS Pin=U1-22
+Added Net: Name=RADIO_RTS
+Add Net: Net with name "RADIO_RTS" already exists
+Added Pin To Net: NetName=RADIO_RX Pin=R6-1
+Added Pin To Net: NetName=RADIO_RX Pin=U1-25
+Added Net: Name=RADIO_RX
+Add Net: Net with name "RADIO_RX" already exists
+Added Pin To Net: NetName=RADIO_TX Pin=MD1-6
+Added Net: Name=RADIO_TX
+Add Net: Net with name "RADIO_TX" already exists
+Added Pin To Net: NetName=RFL Pin=MD1-25
+Added Net: Name=RFL
+Add Net: Net with name "RFL" already exists
